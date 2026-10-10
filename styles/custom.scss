@@ -1,0 +1,74 @@
+/*-- scss:defaults --*/
+
+// Palette: deep teal (matches navbar) + warm earth accent
+$primary:   #083B4C;
+$secondary: #8a5a2b;
+$success:   #3a8f5c;
+$body-bg:   #fbfaf7;
+$body-color:#22262a;
+$link-color: $primary;
+
+$font-family-sans-serif: "Source Sans 3", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$headings-font-family:   "Merriweather", Georgia, serif;
+$headings-font-weight:   700;
+
+$navbar-bg: $primary;
+$navbar-fg: #ffffff;
+$footer-bg: #f1eee7;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap');
+
+.hero {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  max-width: 50rem;
+  margin: 1.5rem auto 2rem;
+}
+
+.mission-img img {
+  display: block;
+  margin: 0 auto 2rem;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.featured-card {
+  background: #ffffff;
+  border-left: 5px solid $secondary;
+  border-radius: 8px;
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 2.5rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+
+  h3 { margin-top: 0; }
+  h3 a { text-decoration: none; }
+}
+
+.pillar {
+  background: #ffffff;
+  border: 1px solid #e6e2d8;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+
+  h3, h4 { margin-top: 0; color: $primary; }
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 32rem;
+
+  input, textarea {
+    border: 1px solid #cfcabd;
+    border-radius: 6px;
+    padding: 0.5rem 0.75rem;
+    font: inherit;
+  }
+
+  button { align-self: flex-start; margin-top: 0.5rem; }
+}
+
+.navbar-logo { max-height: 36px; }
