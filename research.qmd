@@ -1,0 +1,11 @@
+---
+title: "Research & Data"
+---
+
+Research-informed features include scientific tables, explanatory notes, source links and supporting documents.
+
+## Inaugural research resources
+
+- [Comparative evidence and feature analysis](articles/africa-battery-minerals/index.qmd)
+- [Issue 01 evidence register (PDF)](articles/africa-battery-minerals/evidence-register.pdf)
+- [Issue 01 publication PDF](articles/africa-battery-minerals/article.pdf)

@@ -1,0 +1,28 @@
+---
+title: "360 Political Ecology"
+---
+
+# Understanding Our Changing World
+
+**Evidence. Ecology. Equity. Development.**
+
+360 Political Ecology (360PE) is an independent research-informed knowledge platform connecting credible evidence with climate change, resource governance, environmental justice and sustainable development.
+
+[Explore the 360PE Review](publications.qmd) · [About the platform](about.qmd)
+
+## Featured analysis · Issue 01
+
+### Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?
+
+What Indonesia’s nickel boom and new mineral-production estimates reveal about the promise and limits of resource-led development.
+
+**Amanfo Smart Edward, PhD** · *Scheduled for 13 October 2026*
+
+[Read feature](articles/africa-battery-minerals/index.qmd) · [Download PDF](articles/africa-battery-minerals/article.pdf)
+
+## The 360PE lens
+
+**Evidence:** transparent sources and empirical investigation.  
+**Ecology:** climate, biodiversity and environmental change.  
+**Equity:** who benefits, who bears the costs, and whose voices matter.  
+**Development:** practical pathways to just, sustainable futures.

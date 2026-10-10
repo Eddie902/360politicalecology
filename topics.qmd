@@ -1,0 +1,15 @@
+---
+title: "Topics"
+---
+
+## Areas of analysis
+
+- Climate change: mitigation, adaptation and resilience
+- Energy and resource economics
+- Critical minerals and energy transitions
+- Environmental justice and health
+- Environmental governance and political economy
+- Biodiversity and ecosystems
+- Sustainability and sustainable development
+
+Find current analysis in the [360PE Review](publications.qmd).

@@ -1,0 +1,13 @@
+---
+title: "Editorial Standards"
+---
+
+360PE publishes research-informed analysis, not automatically peer-reviewed scholarship.
+
+## Evidence and transparency
+
+Claims should link to traceable sources. Tables and figures carry numbered titles above and notes and sources below. Differences between measured data, forecasts, model estimates and interpretation are identified explicitly.
+
+## Independence and corrections
+
+Alternative explanations and uncertainties are considered. Material corrections should be dated and described on the relevant article page. Readers may flag errors via the repository issue tracker without disclosing private information.

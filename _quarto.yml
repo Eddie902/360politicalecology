@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "articles/**/*.pdf"
+    - "articles/**/*.docx"
+    - "images/**"
+website:
+  title: "360 Political Ecology"
+  site-url: "https://360politicalecology.org"
+  description: "Evidence, ecology, equity and development: research-informed environmental and sustainable development analysis."
+  navbar:
+    background: "#07394b"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: 360PE Review
+        href: publications.qmd
+      - text: Research & Data
+        href: research.qmd
+      - text: Topics
+        href: topics.qmd
+      - text: About
+        href: about.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© 360 Political Ecology · Evidence. Ecology. Equity. Development."
+    right:
+      - text: Editorial standards
+        href: editorial-standards.qmd
+  search: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

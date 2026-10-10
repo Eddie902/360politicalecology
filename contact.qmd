@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+For research discussions, publication feedback or collaboration proposals, please use the [360PE GitHub repository](https://github.com/Eddie902/360politicalecology) while a dedicated contact address is being established.
+
+Please do not submit confidential or personal information through public GitHub issues.

@@ -1,0 +1,5 @@
+.quarto/
+/.cache/
+*.log
+.DS_Store
+# _site is intentionally tracked for Cloudflare deployment.
