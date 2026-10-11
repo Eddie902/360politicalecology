@@ -7,6 +7,13 @@ project:
     - "images/**"
 
 website:
+website:
+  title: "360 Political Ecology"
+
+  navbar:
+    logo: images/360pe-logo.png
+    logo-alt: "360 Political Ecology logo"
+    background: "#07394b"
   title: "360 Political Ecology"
   site-url: "https://360politicalecology.org"
   description: "Independent, research-informed analysis of climate change, environmental justice, energy, resources and sustainable development."
