@@ -35,11 +35,67 @@
     "text": "Climate change: mitigation, adaptation and resilience\nEnergy and resource economics\nCritical minerals and energy transitions\nEnvironmental justice and health\nEnvironmental governance and political economy\nBiodiversity and ecosystems\nSustainability and sustainable development\n\nFind current analysis in the 360PE Review."
   },
   {
+    "objectID": "INSTALL_AND_RECOVERY.html",
+    "href": "INSTALL_AND_RECOVERY.html",
+    "title": "360PE — one-time correction and deployment",
+    "section": "",
+    "text": "This package is source-first. It contains ALL editable pages, branding graphics, PDF and DOCX publications, and the corrected Quarto and GitHub Actions files. It deliberately does not contain _site/, which is generated automatically by the GitHub Actions Quarto build. Never copy old _site HTML into your repository: this caused your merge conflicts.\n\n\n\nIn GitHub Desktop, select 360politicalecology. If a merge is in progress, finish or abort it before copying files.\nClick Fetch origin and Pull origin first, so your local main matches GitHub.\nCreate a backup of your local repository folder before replacing files.\nUnzip this package, open its 360politicalecology folder and copy its contents, including hidden .github, into the repository root. Replace matching source files, retaining your existing .git and existing _site folders. Do not nest the folder and do not delete .git.\nGitHub Desktop: commit with message Fix 360PE Quarto config and publishing workflow; Push origin.\nGitHub website → Actions → Render Quarto website. Wait for the new render and Build website HTML commit. Cloudflare Pages will subsequently deploy the updated _site (Cloudflare output folder _site, build command exit 0).\nCheck the deployed pages, nav logo, publications, source links and PDF downloads before publicity. The planned Issue 01 date is October 13; the live article is an advance online edition dated October 10.\n\n\n\n\nNever hand-merge files in _site. The automated workflow owns generated output. Resolve conflicts by retaining the generated Quarto version, or abort the merge, synchronize and retry with this source-only package. Verify the .qmd, _quarto.yml, and styles.css sources are preserved.\n\n\n\nArticle fact-checking and checking external links remains a separate editorial task. The PDF publication is preserved, not newly revised to match HTML advance-edition metadata."
+  },
+  {
+    "objectID": "INSTALL_AND_RECOVERY.html#install-existing-github-desktop-repository",
+    "href": "INSTALL_AND_RECOVERY.html#install-existing-github-desktop-repository",
+    "title": "360PE — one-time correction and deployment",
+    "section": "",
+    "text": "In GitHub Desktop, select 360politicalecology. If a merge is in progress, finish or abort it before copying files.\nClick Fetch origin and Pull origin first, so your local main matches GitHub.\nCreate a backup of your local repository folder before replacing files.\nUnzip this package, open its 360politicalecology folder and copy its contents, including hidden .github, into the repository root. Replace matching source files, retaining your existing .git and existing _site folders. Do not nest the folder and do not delete .git.\nGitHub Desktop: commit with message Fix 360PE Quarto config and publishing workflow; Push origin.\nGitHub website → Actions → Render Quarto website. Wait for the new render and Build website HTML commit. Cloudflare Pages will subsequently deploy the updated _site (Cloudflare output folder _site, build command exit 0).\nCheck the deployed pages, nav logo, publications, source links and PDF downloads before publicity. The planned Issue 01 date is October 13; the live article is an advance online edition dated October 10."
+  },
+  {
+    "objectID": "INSTALL_AND_RECOVERY.html#if-another-merge-conflict-appears",
+    "href": "INSTALL_AND_RECOVERY.html#if-another-merge-conflict-appears",
+    "title": "360PE — one-time correction and deployment",
+    "section": "",
+    "text": "Never hand-merge files in _site. The automated workflow owns generated output. Resolve conflicts by retaining the generated Quarto version, or abort the merge, synchronize and retry with this source-only package. Verify the .qmd, _quarto.yml, and styles.css sources are preserved."
+  },
+  {
+    "objectID": "INSTALL_AND_RECOVERY.html#editorial-caveat",
+    "href": "INSTALL_AND_RECOVERY.html#editorial-caveat",
+    "title": "360PE — one-time correction and deployment",
+    "section": "",
+    "text": "Article fact-checking and checking external links remains a separate editorial task. The PDF publication is preserved, not newly revised to match HTML advance-edition metadata."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "360 Political Ecology",
+    "section": "",
+    "text": "360 Political Ecology horizontal masthead"
+  },
+  {
+    "objectID": "index.html#featured-analysis-issue-01",
+    "href": "index.html#featured-analysis-issue-01",
+    "title": "360 Political Ecology",
+    "section": "Featured analysis · Issue 01",
+    "text": "Featured analysis · Issue 01\n\nAfrica’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?\nWhat Indonesia’s nickel boom and new mineral-production estimates reveal about the promise and limits of resource-led development.\nAmanfo Smart Edward, PhD · Advance online edition: 10 October 2026 · Issue 01 planned for 13 October\nRead feature · Download PDF"
+  },
+  {
+    "objectID": "index.html#the-360pe-lens",
+    "href": "index.html#the-360pe-lens",
+    "title": "360 Political Ecology",
+    "section": "The 360PE lens",
+    "text": "The 360PE lens\nEvidence: transparent sources and empirical investigation.\nEcology: climate, biodiversity and environmental change.\nEquity: who benefits, who bears the costs, and whose voices matter.\nDevelopment: practical pathways to just, sustainable futures."
+  },
+  {
+    "objectID": "UPDATE_GUIDE.html",
+    "href": "UPDATE_GUIDE.html",
+    "title": "360 Political Ecology",
+    "section": "",
+    "text": "See INSTALL_AND_RECOVERY.md for the updated source-only deployment instructions. The _site folder is generated by the GitHub Actions Quarto workflow."
+  },
+  {
     "objectID": "articles/africa-battery-minerals/index.html",
     "href": "articles/africa-battery-minerals/index.html",
     "title": "Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?",
     "section": "",
-    "text": "Publication date: 13 October 2026 (scheduled).\nDownload article PDF · Full evidence register\nAfrica is increasingly central to the minerals powering electric vehicles, battery storage and industrial electrification. But the fact that a mineral is extracted domestically says little about where it is processed, who controls the resulting industries, or whether communities gain durable prosperity. As mineral-producing governments restrict exports in pursuit of higher-value production, a sharper question emerges: can control over ore become control over development?\nThe Democratic Republic of the Congo (DRC) has intervened in cobalt exports; Zimbabwe has tightened conditions on lithium exports. Indonesia supplies the revealing comparison. Its nickel-processing expansion shows that industrial activity can move onshore, but it also exposes the consequences of foreign ownership, coal-based energy and unstable commodity markets. The appropriate test is not processing volume alone: it is productive capability, public value capture, ecological integrity, environmental justice and resilience."
+    "text": "Advance online edition: 10 October 2026. Planned Issue 01 date: 13 October 2026. This advance version remains subject to final editorial and source verification.\nDownload article PDF · Full evidence register\nAfrica is increasingly central to the minerals powering electric vehicles, battery storage and industrial electrification. But the fact that a mineral is extracted domestically says little about where it is processed, who controls the resulting industries, or whether communities gain durable prosperity. As mineral-producing governments restrict exports in pursuit of higher-value production, a sharper question emerges: can control over ore become control over development?\nThe Democratic Republic of the Congo (DRC) has intervened in cobalt exports; Zimbabwe has tightened conditions on lithium exports. Indonesia supplies the revealing comparison. Its nickel-processing expansion shows that industrial activity can move onshore, but it also exposes the consequences of foreign ownership, coal-based energy and unstable commodity markets. The appropriate test is not processing volume alone: it is productive capability, public value capture, ecological integrity, environmental justice and resilience."
   },
   {
     "objectID": "articles/africa-battery-minerals/index.html#the-central-findings",
@@ -109,28 +165,7 @@
     "href": "articles/africa-battery-minerals/index.html#key-sources-and-direct-links",
     "title": "Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?",
     "section": "Key sources and direct links",
-    "text": "Key sources and direct links"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "360 Political Ecology",
-    "section": "",
-    "text": "Evidence. Ecology. Equity. Development.\n360 Political Ecology (360PE) is an independent research-informed knowledge platform connecting credible evidence with climate change, resource governance, environmental justice and sustainable development.\nExplore the 360PE Review · About the platform\n\n\n\n\nWhat Indonesia’s nickel boom and new mineral-production estimates reveal about the promise and limits of resource-led development.\nAmanfo Smart Edward, PhD · Scheduled for 13 October 2026\nRead feature · Download PDF\n\n\n\n\nEvidence: transparent sources and empirical investigation.\nEcology: climate, biodiversity and environmental change.\nEquity: who benefits, who bears the costs, and whose voices matter.\nDevelopment: practical pathways to just, sustainable futures."
-  },
-  {
-    "objectID": "index.html#featured-analysis-issue-01",
-    "href": "index.html#featured-analysis-issue-01",
-    "title": "360 Political Ecology",
-    "section": "",
-    "text": "What Indonesia’s nickel boom and new mineral-production estimates reveal about the promise and limits of resource-led development.\nAmanfo Smart Edward, PhD · Scheduled for 13 October 2026\nRead feature · Download PDF"
-  },
-  {
-    "objectID": "index.html#the-360pe-lens",
-    "href": "index.html#the-360pe-lens",
-    "title": "360 Political Ecology",
-    "section": "",
-    "text": "Evidence: transparent sources and empirical investigation.\nEcology: climate, biodiversity and environmental change.\nEquity: who benefits, who bears the costs, and whose voices matter.\nDevelopment: practical pathways to just, sustainable futures."
+    "text": "Key sources and direct links\nThe following sources underpin major claims; the evidence register provides additional documentation. Links are provided for independent checking, not as a claim that every subsidiary statement has completed final fact-checking.\n\nU.S. Geological Survey (2026), Mineral Commodity Summaries 2026 — mine production, reserves, market context and selected export controls (pp. 16, 71, 119 and 133).\nOur World in Data, Indonesia’s processed-nickel expansion — historical processing volumes and definitions.\nC4ADS, Refining Power — investigation of control over Indonesian refining capacity.\nCELIOS and CREA, Economic and Health Impact of Nickel Processing Industry — captive coal infrastructure and modeled health impacts.\nInternational Energy Agency, Global EV Outlook 2026 — technology and battery-market context.\n\nEditorial verification note. Specific 2026 Zimbabwe policy reporting and the IMF discussion of export restrictions should be checked against their original publications before the article is treated as fully fact-checked. The comparisons in Table 1 and Figure 1 describe different commodities, not equivalent industrial outcomes."
   },
   {
     "objectID": "editorial-standards.html",
