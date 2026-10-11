@@ -6,6 +6,13 @@ project:
     - "articles/**/*.docx"
     - "images/**"
 website:
+website:
+  title: "360 Political Ecology"
+
+  navbar:
+    logo: images/360pe-logo.png
+    logo-alt: "360 Political Ecology logo"
+    background: "#07394b"
   title: "360 Political Ecology"
   site-url: "https://360politicalecology.org"
   description: "Evidence, ecology, equity and development: research-informed environmental and sustainable development analysis."
