@@ -2,7 +2,7 @@
 title: "360 Political Ecology"
 ---
 
-![360 Political Ecology horizontal masthead](images/360pe-masthead.png){fig-alt="360 Political Ecology masthead" width="440"}
+![](images/360pe-masthead.png){fig-alt="360 Political Ecology official publication masthead" width="65%"}
 
 # Understanding Our Changing World
 
