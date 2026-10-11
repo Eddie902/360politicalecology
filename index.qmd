@@ -2,6 +2,8 @@
 title: "360 Political Ecology"
 ---
 
+![360 Political Ecology horizontal masthead](images/360pe-masthead.png){fig-alt="360 Political Ecology masthead" width="440"}
+
 # Understanding Our Changing World
 
 **Evidence. Ecology. Equity. Development.**
@@ -16,7 +18,7 @@ title: "360 Political Ecology"
 
 What Indonesia’s nickel boom and new mineral-production estimates reveal about the promise and limits of resource-led development.
 
-**Amanfo Smart Edward, PhD** · *Scheduled for 13 October 2026*
+**Amanfo Smart Edward, PhD** · *Advance online edition: 10 October 2026 · Issue 01 planned for 13 October*
 
 [Read feature](articles/africa-battery-minerals/index.qmd) · [Download PDF](articles/africa-battery-minerals/article.pdf)
 

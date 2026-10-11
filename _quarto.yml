@@ -5,33 +5,41 @@ project:
     - "articles/**/*.pdf"
     - "articles/**/*.docx"
     - "images/**"
+
 website:
   title: "360 Political Ecology"
   site-url: "https://360politicalecology.org"
-  description: "Evidence, ecology, equity and development: research-informed environmental and sustainable development analysis."
+  description: "Independent, research-informed analysis of climate change, environmental justice, energy, resources and sustainable development."
   navbar:
+    logo: images/360pe-logo.png
+    logo-alt: "360 Political Ecology — 360PE logo"
     background: "#07394b"
+    foreground: "#ffffff"
     left:
-      - text: Home
+      - text: "Home"
         href: index.qmd
-      - text: 360PE Review
+      - text: "360PE Review"
         href: publications.qmd
-      - text: Research & Data
+      - text: "Research & Data"
         href: research.qmd
-      - text: Topics
+      - text: "Topics"
         href: topics.qmd
-      - text: About
+      - text: "About"
         href: about.qmd
-      - text: Contact
+      - text: "Contact"
         href: contact.qmd
+  search: true
   page-footer:
+    border: true
     left: "© 360 Political Ecology · Evidence. Ecology. Equity. Development."
     right:
-      - text: Editorial standards
+      - text: "Editorial standards"
         href: editorial-standards.qmd
-  search: true
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    link-external-newwindow: true

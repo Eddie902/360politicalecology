@@ -1,1 +1,27 @@
-*{box-sizing:border-box}body{margin:0;font:17px/1.75 system-ui,Arial,sans-serif;color:#142f3b;background:#fbfdfc}header{padding:16px max(24px,calc((100% - 1180px)/2));background:#07394b;color:white}header a{color:#fff;margin-right:18px;text-decoration:none}header nav{display:flex;gap:8px;flex-wrap:wrap}header .brand{font-size:24px;font-weight:850;margin-bottom:10px}header span{color:#83d39c}header small{font-size:14px;font-weight:400}main{max-width:920px;margin:45px auto 85px;padding:0 25px}h1,h2,h3{font-family:Georgia,serif;color:#07394b;line-height:1.22}h1{font-size:clamp(32px,5vw,52px)}h2{border-bottom:1px solid #d5e5e2;padding-bottom:9px;margin-top:40px}a{color:#087a79}a:hover{text-decoration:underline}p{margin:1em 0}img{max-width:100%;height:auto}.masthead{display:block;max-width:min(100%,800px);margin-bottom:25px}table{width:100%;border-collapse:collapse;font-size:14px;display:block;overflow-x:auto}td,th{padding:9px;border-bottom:1px solid #d6e5df;text-align:left}th{background:#edf6f2}blockquote{border-left:5px solid #4eaa61;padding:10px 20px;background:#edf7f3;margin:25px 0}.byline{color:#657b86}footer{border-top:4px solid #56a467;background:#07394b;color:white;padding:25px;text-align:center;font-size:13px}footer a{color:#bbf3d3}@media(max-width:600px){header nav{font-size:14px}main{margin-top:24px}}
+/* 360 Political Ecology: editorial + scientific styles */
+:root { --pe-navy:#07394b; --pe-teal:#087a79; --pe-green:#5b9d35; --pe-ink:#112b37; --pe-soft:#f0f8f5; }
+body { color:var(--pe-ink); line-height:1.7; background:#fff; }
+h1,h2,h3 { color:var(--pe-navy); line-height:1.25; }
+h1 { font-size:clamp(1.8rem,3.1vw,2.6rem); }
+h2 { margin-top:2rem; }
+a { color:var(--pe-teal); }
+a:hover { color:#055f5e; }
+.navbar { background-color:var(--pe-navy); border-bottom:4px solid var(--pe-green); }
+.navbar-brand { font-weight:800; letter-spacing:.02em; }
+.navbar-brand img,.navbar-logo { max-height:46px; width:auto; object-fit:contain; }
+.navbar .nav-link,.navbar .navbar-brand { color:white; }
+#quarto-content main { min-width:0; }
+main.content { max-width:960px; }
+main img, .content img,figure img { max-width:100%; height:auto; }
+.quarto-title-block { border-bottom:1px solid #cbdad6; margin-bottom:1.5rem; padding-bottom:1rem; }
+/* Scientific tables: preserve titles above, notes and sources underneath. */
+.table-responsive, .cell-output-display, .quarto-table-container { overflow-x:auto; max-width:100%; -webkit-overflow-scrolling:touch; }
+table { border-collapse:collapse; font-size:.91rem; }
+table th { color:var(--pe-navy); font-weight:700; background:var(--pe-soft); }
+table th,table td { padding:.55rem .65rem; border-bottom:1px solid #d9e5e5; }
+figure { margin:1.5rem 0; }
+figcaption { font-size:.88rem; color:#50646a; }
+blockquote { border-left:4px solid var(--pe-green); padding:.75rem 1rem; background:var(--pe-soft); margin:1.5rem 0; }
+.nav-footer { border-top:2px solid var(--pe-green); font-size:.9rem; }
+.evidence-links li { margin-bottom:.55rem; }
+@media(max-width:768px) { body{font-size:.96rem;line-height:1.62;}h1{font-size:1.7rem;}h2{font-size:1.4rem;}.navbar-brand img,.navbar-logo{max-height:38px;}table{font-size:.8rem;}table th,table td{padding:.4rem .45rem;} }

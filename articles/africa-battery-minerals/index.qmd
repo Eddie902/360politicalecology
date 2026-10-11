@@ -2,13 +2,14 @@
 title: "Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?"
 subtitle: "What Indonesia’s nickel boom and USGS data reveal"
 author: "Amanfo Smart Edward, PhD"
-date: 2026-10-13
+date: 2026-10-10
+date-modified: 2026-10-10
 categories: [Critical Minerals, Industrial Policy, Environmental Justice, Africa]
 description: "Evidence-based analysis of mineral export restrictions, industrial capabilities and sustainable development."
 image: ../../images/mineral-production.png
 ---
 
-> **Publication date:** 13 October 2026 (scheduled).
+> **Advance online edition:** 10 October 2026. **Planned Issue 01 date:** 13 October 2026. This advance version remains subject to final editorial and source verification.
 
 [Download article PDF](article.pdf) · [Full evidence register](evidence-register.pdf)
 
@@ -122,3 +123,14 @@ This article is an evidence-based comparative policy synthesis, not a causal imp
 
 
 ## Key sources and direct links
+
+The following sources underpin major claims; the [evidence register](evidence-register.pdf) provides additional documentation. Links are provided for independent checking, not as a claim that every subsidiary statement has completed final fact-checking.
+
+- [U.S. Geological Survey (2026), *Mineral Commodity Summaries 2026*](https://doi.org/10.3133/mcs2026) — mine production, reserves, market context and selected export controls (pp. 16, 71, 119 and 133).
+- [Our World in Data, Indonesia's processed-nickel expansion](https://ourworldindata.org/data-insights/after-a-decade-of-growth-indonesia-has-become-the-worlds-largest-producer-of-processed-nickel) — historical processing volumes and definitions.
+- [C4ADS, *Refining Power*](https://c4ads.org/commentary/refining-power/) — investigation of control over Indonesian refining capacity.
+- [CELIOS and CREA, *Economic and Health Impact of Nickel Processing Industry*](https://celios.co.id/celios-x-crea-economic-and-health-impact-of-nickel-processing-industry/) — captive coal infrastructure and modeled health impacts.
+- [International Energy Agency, *Global EV Outlook 2026*](https://www.iea.org/reports/global-ev-outlook-2026) — technology and battery-market context.
+
+*Editorial verification note.* Specific 2026 Zimbabwe policy reporting and the IMF discussion of export restrictions should be checked against their original publications before the article is treated as fully fact-checked. The comparisons in Table 1 and Figure 1 describe **different commodities**, not equivalent industrial outcomes.
+
