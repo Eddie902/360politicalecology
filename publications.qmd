@@ -6,7 +6,11 @@ title: "360PE Review"
 
 ### [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](articles/africa-battery-minerals/index.qmd)
 
-**Issue 01 · Scheduled 13 October 2026**  
+**360PE Review | Issue 01**
+
+*First published online: 10 October 2026*
+
+*Issue date: 13 October 2026* 
 Analysis of mineral export restrictions, comparative market leverage, domestic industrial capabilities and environmental justice.
 
 [Read online](articles/africa-battery-minerals/index.qmd) · [Article PDF](articles/africa-battery-minerals/article.pdf) · [Evidence register](articles/africa-battery-minerals/evidence-register.pdf)
