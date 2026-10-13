@@ -1,0 +1,124 @@
+
+# ============================================================
+# 360 POLITICAL ECOLOGY (360PE)
+# Website Version 2.0 - Quarto Build Validation
+#
+# Website: https://360politicalecology.org
+#
+# GitHub validates website source and rendered output.
+# Cloudflare Pages handles website deployment.
+# ============================================================
+
+name: Validate 360PE Quarto Website
+
+on:
+  push:
+    branches:
+      - main
+      - website-v2
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate and Render Website
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # STEP 1: CHECK OUT SOURCE CODE
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # STEP 2: INSTALL QUARTO
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # STEP 3: RENDER WEBSITE
+      - name: Render website
+        shell: bash
+        run: |
+          set -euo pipefail
+          quarto render
+
+      # STEP 4: VERIFY ESSENTIAL WEBSITE FILES
+      - name: Verify essential website files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          echo "Checking homepage..."
+          test -f _site/index.html
+
+          echo "Checking institutional pages..."
+          test -f _site/topics.html
+          test -f _site/about.html
+          test -f _site/founder.html
+          test -f _site/contact.html
+          test -f _site/publications.html
+          test -f _site/research.html
+          test -f _site/editorial-standards.html
+
+          echo "Checking inaugural article..."
+          test -f _site/articles/africa-battery-minerals/index.html
+
+          echo "Checking inaugural article PDF..."
+          test -f _site/articles/africa-battery-minerals/article.pdf
+
+          echo "Checking 360PE Review Issue 01 PDF..."
+          test -f _site/articles/africa-battery-minerals/360pe-review-issue-01.pdf
+
+          echo "Checking official branding assets..."
+          test -f _site/images/360pe-masthead.png
+          test -f _site/images/360pe-original-logo.png
+          test -f _site/images/360pe-areas-of-analysis.png
+          test -f _site/images/360pe-institutional-overview.jpg
+
+          echo "Checking stylesheet..."
+          test -f _site/styles.css
+
+          echo "Checking sitemap and robots.txt..."
+          test -f _site/sitemap.xml
+          test -f _site/robots.txt
+
+          echo "Checking publications RSS feed..."
+          test -f _site/publications.xml
+
+          echo "SUCCESS: Essential website files verified."
+
+      # STEP 5: VERIFY INAUGURAL ARTICLE CONTENT
+      - name: Verify inaugural publication
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          ARTICLE="_site/articles/africa-battery-minerals/index.html"
+
+          echo "Checking article source references..."
+          grep -qi "Key sources and direct links" "$ARTICLE"
+
+          echo "SUCCESS: Inaugural publication verified."
+
+      # STEP 6: CHECK FOR UNRESOLVED GIT CONFLICTS
+      - name: Verify no Git conflict markers
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if grep -rEn \
+            --include='*.html' \
+            --include='*.css' \
+            '^(<<<<<<< |=======|>>>>>>> )' \
+            _site; then
+            echo "ERROR: Unresolved Git conflict markers detected."
+            exit 1
+          fi
+
+          echo "SUCCESS: No Git conflict markers found."

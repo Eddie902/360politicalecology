@@ -1,0 +1,22 @@
+---
+title: "Founder and Editorial Leadership"
+description: "About the founder of 360 Political Ecology."
+---
+
+# Dr. Amanfo Smart Edward, PhD
+
+**Founder, 360 Political Ecology (360PE)**
+
+**Interdisciplinary researcher in environmental and development economics**
+
+Dr. Amanfo Smart Edward holds a PhD in Global Environmental Studies from **Sophia University, Japan**, an MA in Economics from **Tokyo International University, Japan**, and a BA in Economics and Management from the **University of Ghana**.
+
+His doctoral research investigated multidimensional household energy poverty and social-ecological resilience in rural Ghana. His interests span environmental and resource economics, climate change, energy access, environmental governance, sustainability, political economy and development.
+
+He established 360PE to connect evidence-based scholarship with accessible, critical public discussion about environmental and development challenges.
+
+**Editorial role:** As founder, he is responsible for the platform's editorial direction. Published material should be evaluated against its stated [editorial standards](editorial-standards.qmd).
+
+**Independence:** 360PE is independently operated. Educational and professional affiliations do not imply that affiliated institutions publish or endorse 360PE.
+
+For research and editorial enquiries, see [Contact](contact.qmd).

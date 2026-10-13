@@ -1,5 +1,25 @@
+
+
+# 360PE Version 2.0 - Git ignore rules
+
+# Generated Quarto website
+/_site/
+
+# Quarto working files
+/.quarto/
 .quarto/
+**/*.quarto_ipynb
+
+# RStudio temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Cache and temporary files
 /.cache/
 *.log
 .DS_Store
-# _site is intentionally tracked for Cloudflare deployment.
+
+# Local environment files
+.env
+.env.local

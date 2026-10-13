@@ -1,7 +1,23 @@
 ---
-title: "Contact"
+title: "Contact 360PE"
+description: "Contact 360 Political Ecology for editorial enquiries, corrections and research collaborations."
 ---
 
-For research discussions, publication feedback or collaboration proposals, please use the [360PE GitHub repository](https://github.com/Eddie902/360politicalecology) while a dedicated contact address is being established.
+360 Political Ecology welcomes evidence-based feedback, editorial enquiries, correction requests, research collaboration proposals, and responsible media enquiries.
 
-Please do not submit confidential or personal information through public GitHub issues.
+## Enquiries
+
+- **Research and interdisciplinary collaboration** — scholarship and shared evidence projects
+- **Editorial correspondence** — submissions or proposals connected to the [ten areas of analysis](topics.qmd)
+- **Evidence and corrections** — source questions, data issues, substantive corrections
+- **Media and educational enquiries** — interviews, explanatory material and learning partnerships
+
+::: {.callout-note}
+## Contact email setup pending
+
+A dedicated domain email address will be published **after it has been configured and tested**. We intend to use **contact@360politicalecology.org**, but it is **not yet confirmed as operational**. Please do not send enquiries there until the address is activated.
+:::
+
+**Website:** [360politicalecology.org](https://360politicalecology.org)
+
+For publication corrections, please include the article title, page/section, disputed claim and a reliable supporting source when possible.

@@ -1,15 +1,79 @@
 ---
-title: "Topics"
+title: "Ten Areas of Analysis"
+description: "Explore the ten interdisciplinary areas covered by 360 Political Ecology (360PE)."
 ---
 
-## Areas of analysis
+::: {.pe-topics-intro}
+## Our Ten Areas of Analysis
 
-- Climate change: mitigation, adaptation and resilience
-- Energy and resource economics
-- Critical minerals and energy transitions
-- Environmental justice and health
-- Environmental governance and political economy
-- Biodiversity and ecosystems
-- Sustainability and sustainable development
+360 Political Ecology (360PE) examines environmental and development challenges through ten interconnected thematic areas. **Every 360PE Review article addresses at least one area**, and many examine several.
+:::
 
-Find current analysis in the [360PE Review](publications.qmd).
+<div class="pe-topic-grid" role="list" aria-label="360PE's ten official areas of analysis">
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-01">
+    <span class="pe-topic-num">01</span>
+    <h3 id="pe-topic-01">Climate change: mitigation, adaptation and resilience</h3>
+    <p>Climate risks, emissions reduction, adaptation decisions and the resilience of societies and ecosystems.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-02">
+    <span class="pe-topic-num">02</span>
+    <h3 id="pe-topic-02">Energy and resource economics</h3>
+    <p>Energy access, resource allocation, markets, economic incentives and development outcomes.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-03">
+    <span class="pe-topic-num">03</span>
+    <h3 id="pe-topic-03">Critical minerals and energy transitions</h3>
+    <p>Mineral supply chains, industrial policy, technological change and the distribution of transition benefits and costs.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-04">
+    <span class="pe-topic-num">04</span>
+    <h3 id="pe-topic-04">Environmental justice and health</h3>
+    <p>Unequal exposure, public health, community participation and the fairness of environmental decisions.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-05">
+    <span class="pe-topic-num">05</span>
+    <h3 id="pe-topic-05">Environmental governance and political economy</h3>
+    <p>Institutions, public policy, power, incentives, accountability and contested resource decisions.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-06">
+    <span class="pe-topic-num">06</span>
+    <h3 id="pe-topic-06">Biodiversity and ecosystems</h3>
+    <p>Ecosystem change, conservation, ecological services and the relationships between biodiversity and livelihoods.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-07">
+    <span class="pe-topic-num">07</span>
+    <h3 id="pe-topic-07">Sustainability and sustainable development</h3>
+    <p>Long-term development pathways and trade-offs among economic, social and ecological objectives.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-08">
+    <span class="pe-topic-num">08</span>
+    <h3 id="pe-topic-08">Climate finance</h3>
+    <p>Climate-related investment, financial mechanisms, funding access, risk allocation and accountability.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-09">
+    <span class="pe-topic-num">09</span>
+    <h3 id="pe-topic-09">Just Transition</h3>
+    <p>Fairness for workers, communities and vulnerable groups during decarbonization and economic restructuring.</p>
+  </section>
+  <section class="pe-topic-card" role="listitem" aria-labelledby="pe-topic-10">
+    <span class="pe-topic-num">10</span>
+    <h3 id="pe-topic-10">Regional and international environmental policy, law, treaties and declarations</h3>
+    <p>Environmental agreements, regional cooperation, legal frameworks and cross-border implementation challenges.</p>
+  </section>
+</div>
+
+::: {.pe-principles}
+**Our guiding principles:** Evidence · Ecology · Equity · Development
+
+The ten areas describe what 360PE studies. These four principles guide how 360PE approaches analysis and public communication.
+:::
+
+## The 360PE analytical framework
+
+![The original 360PE circular infographic showing the ten official areas of analysis surrounding the platform's four guiding principles.](images/360pe-areas-of-analysis.png){fig-alt="Ten labeled thematic areas arranged around a central 360PE circle: climate change; energy and resource economics; critical minerals and energy transitions; environmental justice and health; environmental governance and political economy; biodiversity and ecosystems; sustainability and sustainable development; climate finance; Just Transition; and regional and international environmental policy, law, treaties and declarations." width="100%"}
+
+*Figure 1. The ten thematic areas of analysis of 360 Political Ecology (360PE).* 
+
+*Note.* This conceptual diagram illustrates thematic membership in 360PE's analytical framework. Connecting lines do not indicate causal or empirically measured relationships. Each 360PE Review article addresses at least one of the ten areas. *Source:* 360 Political Ecology (2026), original framework.
+
+[Browse articles in 360PE Review](publications.qmd)

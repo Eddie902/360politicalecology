@@ -1,30 +1,89 @@
 ---
 title: "360 Political Ecology"
+title-block-style: none
+page-layout: full
+toc: false
+image: images/360pe-masthead.png
+description: "360 Political Ecology (360PE) connects credible evidence with analysis of climate change, resource economics, environmental governance, equity and sustainable development."
 ---
 
-![](images/360pe-masthead.png){fig-alt="360 Political Ecology official publication masthead" width="65%"}
+::: {.hero-pe}
+<span class="kicker">Independent · Interdisciplinary · Research-informed</span>
 
-# Understanding Our Changing World
+# Environmental change. Economic systems. Equitable development.
 
-**Evidence. Ecology. Equity. Development.**
+**360 Political Ecology (360PE)** connects environmental change, economics, political economy and social equity through accessible, evidence-informed analysis.
 
-360 Political Ecology (360PE) is an independent research-informed knowledge platform connecting credible evidence with climate change, resource governance, environmental justice and sustainable development.
+**Evidence · Ecology · Equity · Development**
 
-[Explore the 360PE Review](publications.qmd) · [About the platform](about.qmd)
+[Read 360PE Review](publications.qmd){.pe-button}
+:::
 
-## Featured analysis · Issue 01
+## Why 360PE exists
 
-### Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?
+::: {.pe-home-grid}
+::: {.pe-home-card}
+### Mission
 
-What Indonesia’s nickel boom and new mineral-production estimates reveal about the promise and limits of resource-led development.
+To generate and share credible, evidence-informed knowledge that supports more equitable, sustainable and resilient societies.
+:::
+::: {.pe-home-card}
+### Purpose
 
-**Amanfo Smart Edward, PhD** · *Advance online edition: 10 October 2026 · Issue 01 planned for 13 October*
+To help researchers, policymakers, practitioners and the wider public understand environmental and development challenges, assess trade-offs and consider viable responses.
+:::
+:::
 
-[Read feature](articles/africa-battery-minerals/index.qmd) · [Download PDF](articles/africa-battery-minerals/article.pdf)
+## How we work: from evidence to informed action
 
-## The 360PE lens
+Our editorial approach moves from evidence to interpretation and policy dialogue. This is a **research communication pathway**, not a claim that every publication demonstrates policy impacts.
 
-**Evidence:** transparent sources and empirical investigation.  
-**Ecology:** climate, biodiversity and environmental change.  
-**Equity:** who benefits, who bears the costs, and whose voices matter.  
-**Development:** practical pathways to just, sustainable futures.
+<div class="pe-work-grid" role="list" aria-label="360PE research communication pathway">
+  <div class="pe-work-step" role="listitem"><span>01</span><strong>Data &amp; research</strong><p>Use credible scientific, institutional and field-based evidence.</p></div>
+  <div class="pe-work-step" role="listitem"><span>02</span><strong>Critical analysis</strong><p>Assess competing explanations, limitations and uncertainties.</p></div>
+  <div class="pe-work-step" role="listitem"><span>03</span><strong>Environmental justice lens</strong><p>Ask who benefits, who bears costs and whose voices are heard.</p></div>
+  <div class="pe-work-step" role="listitem"><span>04</span><strong>Policy options</strong><p>Compare feasible, evidence-informed responses and trade-offs.</p></div>
+  <div class="pe-work-step" role="listitem"><span>05</span><strong>Development implications</strong><p>Examine potential implications for equitable and sustainable outcomes.</p></div>
+</div>
+
+## Featured research
+
+::: {.pe-callout}
+**360PE Review | Issue 01**
+
+### [Africa's Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](articles/africa-battery-minerals/index.qmd)
+
+A comparative policy synthesis examining mineral export restrictions, productive capabilities, public value capture, ecological integrity and resilience in the DRC, Zimbabwe and Indonesia.
+
+[Read the complete article →](articles/africa-battery-minerals/index.qmd)
+:::
+
+## What we study
+
+Our publication spans ten interconnected thematic areas, from climate resilience to environmental law. Each 360PE Review article addresses at least one area.
+
+::: {.pe-tiles}
+::: {.pe-tile}
+**Climate, energy and industrial transitions**
+
+Climate adaptation; energy and resource economics; critical minerals and energy transitions.
+:::
+::: {.pe-tile}
+**Justice, governance and ecosystems**
+
+Environmental justice and health; political economy; biodiversity and ecosystems.
+:::
+::: {.pe-tile}
+**Development, finance and international policy**
+
+Sustainability, climate finance, Just Transition, and environmental law and treaties.
+:::
+:::
+
+[Explore all ten official research areas →](topics.qmd)
+
+## Join the conversation
+
+360PE welcomes informed critique, research collaborations and constructive contributions. The publication was founded by **Dr. Amanfo Smart Edward, PhD**, and operates independently of any university or other institution.
+
+[About 360PE](about.qmd) · [Founder](founder.qmd) · [Editorial standards](editorial-standards.qmd) · [Contact](contact.qmd)

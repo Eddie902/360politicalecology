@@ -1,16 +1,21 @@
+
 ---
 title: "360PE Review"
+description: "Feature analyses, policy research and public scholarship from 360 Political Ecology."
+
+listing:
+  contents:
+    - "articles/**/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  feed:
+    type: full
+    title: "360PE Review — New Publications"
+    description: "Recent evidence-informed analysis from 360 Political Ecology"
 ---
 
-## Feature analysis
+The **360PE Review** is an independent research-informed publication. Every article indicates its publication type, author, issue and supporting sources.
 
-### [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](articles/africa-battery-minerals/index.qmd)
+Browse by topic and open an article to read or download the accompanying PDF when available.
 
-**360PE Review | Issue 01**
-
-*First published online: 10 October 2026*
-
-*Issue date: 13 October 2026* 
-Analysis of mineral export restrictions, comparative market leverage, domestic industrial capabilities and environmental justice.
-
-[Read online](articles/africa-battery-minerals/index.qmd) · [Article PDF](articles/africa-battery-minerals/article.pdf) · [Evidence register](articles/africa-battery-minerals/evidence-register.pdf)

@@ -1,49 +1,101 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "articles/**/*.qmd"
   resources:
-    - "articles/**/*.pdf"
-    - "articles/**/*.docx"
     - "images/**"
+    - "articles/**/*.pdf"
+    - "robots.txt"
+    - "_redirects"
+
 
 website:
   title: "360 Political Ecology"
   site-url: "https://360politicalecology.org"
-  description: >
-    Independent, research-informed analysis of climate change, environmental
-    justice, energy and resource economics, sustainability and development.
+  description: "360 Political Ecology (360PE) is an independent, research-informed platform examining climate change, energy and resource economics, environmental justice, environmental governance, and sustainable development."
+
+  favicon: "images/360pe-original-logo.png"
+
+  search: true
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  bread-crumbs: true
+  back-to-top-navigation: true
+
+  image: "images/360pe-masthead.png"
+  image-alt: "360 Political Ecology — Evidence, Ecology, Equity, Development"
+
   navbar:
-    logo: "images/360pe-logo.png"
-    logo-alt: "360 Political Ecology logo"
-    background: "#07394b"
-    foreground: "#ffffff"
+    background: light
+    foreground: dark
+    pinned: true
+    collapse: true
+    collapse-below: lg
+    search: true
+
+    logo: "images/360pe-masthead.png"
+    logo-alt: "360 Political Ecology official masthead"
+    logo-href: "index.qmd"
+    title: false
+
     left:
       - text: "Home"
         href: index.qmd
+
       - text: "360PE Review"
         href: publications.qmd
-      - text: "Research & Data"
-        href: research.qmd
+
       - text: "Topics"
         href: topics.qmd
+
+      - text: "Research & Data"
+        href: research.qmd
+
       - text: "About"
-        href: about.qmd
+        menu:
+          - text: "About 360PE"
+            href: about.qmd
+
+          - text: "Founder"
+            href: founder.qmd
+
+          - text: "Editorial Standards"
+            href: editorial-standards.qmd
+
       - text: "Contact"
         href: contact.qmd
-  search: true
+
   page-footer:
+    background: light
+    foreground: dark
     border: true
-    left: "© 360 Political Ecology · Evidence. Ecology. Equity. Development."
+
+    left: "© 2026 360 Political Ecology (360PE). Independent research-informed publication."
+
     right:
+      - text: "Contact"
+        href: contact.qmd
+
       - text: "Editorial Standards"
         href: editorial-standards.qmd
+
+      - text: "RSS"
+        href: publications.xml
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    toc-depth: 3
+    toc-location: right
     link-external-newwindow: true
-
-editor: visual
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <meta name="theme-color" content="#123c49">
+execute:
+  freeze: auto

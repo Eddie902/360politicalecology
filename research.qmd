@@ -2,10 +2,6 @@
 title: "Research & Data"
 ---
 
-Research-informed features include scientific tables, explanatory notes, source links and supporting documents.
+Research and data resources will appear here as they are verified for publication. The page will provide supporting datasets, reproducibility materials, evidence registers, charts and methodological notes **only where sharing rights permit**.
 
-## Inaugural research resources
-
-- [Comparative evidence and feature analysis](articles/africa-battery-minerals/index.qmd)
-- [Issue 01 evidence register (PDF)](articles/africa-battery-minerals/evidence-register.pdf)
-- [Issue 01 publication PDF](articles/africa-battery-minerals/article.pdf)
+For now, explore [360PE Review publications](publications.qmd) and the available supporting references and figures in the inaugural article.
