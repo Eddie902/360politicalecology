@@ -1,23 +1,47 @@
+
 ---
 title: "Contact 360PE"
 description: "Contact 360 Political Ecology for editorial enquiries, corrections and research collaborations."
 ---
 
-360 Political Ecology welcomes evidence-based feedback, editorial enquiries, correction requests, research collaboration proposals, and responsible media enquiries.
+360 Political Ecology (360PE) welcomes evidence-based feedback, editorial enquiries, correction requests, research collaboration proposals, and responsible media enquiries.
 
 ## Enquiries
 
-- **Research and interdisciplinary collaboration** — scholarship and shared evidence projects
-- **Editorial correspondence** — submissions or proposals connected to the [ten areas of analysis](topics.qmd)
-- **Evidence and corrections** — source questions, data issues, substantive corrections
-- **Media and educational enquiries** — interviews, explanatory material and learning partnerships
+- **Research and interdisciplinary collaboration** — scholarship, joint research initiatives and shared evidence projects
+- **Editorial correspondence** — article submissions, publication proposals and contributions related to the [ten areas of analysis](topics.qmd)
+- **Evidence and corrections** — source questions, data issues, factual clarifications and substantive corrections
+- **Media and educational enquiries** — interviews, explanatory materials and educational partnerships
+
+## Official Contact Information
 
 ::: {.callout-note}
-## Contact email setup pending
+### Email 360 Political Ecology
 
-A dedicated domain email address will be published **after it has been configured and tested**. We intend to use **contact@360politicalecology.org**, but it is **not yet confirmed as operational**. Please do not send enquiries there until the address is activated.
+For research collaborations, editorial correspondence, corrections and other professional enquiries, please contact:
+
+**[contact@360politicalecology.org](mailto:contact@360politicalecology.org)**
+
+We welcome constructive, evidence-informed communication.
 :::
 
 **Website:** [360politicalecology.org](https://360politicalecology.org)
 
-For publication corrections, please include the article title, page/section, disputed claim and a reliable supporting source when possible.
+## Publication Corrections and Evidence Requests
+
+360PE is committed to transparency, accuracy and responsible research communication.
+
+When requesting a correction or clarification, please include, where possible:
+
+- The title of the article or publication
+- The relevant section, page or paragraph
+- The specific claim, data point or interpretation requiring clarification
+- A reliable supporting source or explanation of the concern
+
+Substantive corrections will be evaluated against the platform's [Editorial Standards](editorial-standards.qmd).
+
+## Editorial Independence
+
+360 Political Ecology is an independently operated, research-informed platform. Its editorial decisions are not directed by the founder's academic affiliations.
+
+For more information about the publication and its leadership, visit [About 360PE](about.qmd) and [Founder and Editorial Leadership](founder.qmd).
