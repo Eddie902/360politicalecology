@@ -1,7 +1,47 @@
+
 ---
-title: "Contact"
+title: "Contact 360PE"
+description: "Contact 360 Political Ecology for editorial enquiries, corrections and research collaborations."
 ---
 
-For research discussions, publication feedback or collaboration proposals, please use the [360PE GitHub repository](https://github.com/Eddie902/360politicalecology) while a dedicated contact address is being established.
+360 Political Ecology (360PE) welcomes evidence-based feedback, editorial enquiries, correction requests, research collaboration proposals, and responsible media enquiries.
 
-Please do not submit confidential or personal information through public GitHub issues.
+## Enquiries
+
+- **Research and interdisciplinary collaboration** — scholarship, joint research initiatives and shared evidence projects
+- **Editorial correspondence** — article submissions, publication proposals and contributions related to the [ten areas of analysis](topics.qmd)
+- **Evidence and corrections** — source questions, data issues, factual clarifications and substantive corrections
+- **Media and educational enquiries** — interviews, explanatory materials and educational partnerships
+
+## Official Contact Information
+
+::: {.callout-note}
+### Email 360 Political Ecology
+
+For research collaborations, editorial correspondence, corrections and other professional enquiries, please contact:
+
+**[contact@360politicalecology.org](mailto:contact@360politicalecology.org)**
+
+We welcome constructive, evidence-informed communication.
+:::
+
+**Website:** [360politicalecology.org](https://360politicalecology.org)
+
+## Publication Corrections and Evidence Requests
+
+360PE is committed to transparency, accuracy and responsible research communication.
+
+When requesting a correction or clarification, please include, where possible:
+
+- The title of the article or publication
+- The relevant section, page or paragraph
+- The specific claim, data point or interpretation requiring clarification
+- A reliable supporting source or explanation of the concern
+
+Substantive corrections will be evaluated against the platform's [Editorial Standards](editorial-standards.qmd).
+
+## Editorial Independence
+
+360 Political Ecology is an independently operated, research-informed platform. Its editorial decisions are not directed by the founder's academic affiliations.
+
+For more information about the publication and its leadership, visit [About 360PE](about.qmd) and [Founder and Editorial Leadership](founder.qmd).

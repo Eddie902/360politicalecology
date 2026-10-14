@@ -1,11 +1,79 @@
+
 ---
 title: "Research & Data"
+description: "Explore research evidence, analytical resources, data documentation and reproducibility materials from 360 Political Ecology."
 ---
 
-Research-informed features include scientific tables, explanatory notes, source links and supporting documents.
+360 Political Ecology (360PE) connects interdisciplinary research with accessible, evidence-informed analysis of environmental change, economic development, sustainability and public policy.
 
-## Inaugural research resources
+This section provides a developing gateway to the evidence, methods and analytical resources that inform 360PE publications.
 
-- [Comparative evidence and feature analysis](articles/africa-battery-minerals/index.qmd)
-- [Issue 01 evidence register (PDF)](articles/africa-battery-minerals/evidence-register.pdf)
-- [Issue 01 publication PDF](articles/africa-battery-minerals/article.pdf)
+## Research Publications
+
+Explore the latest research-informed articles, policy analysis and thematic publications through [360PE Review](publications.qmd).
+
+Published articles may draw on peer-reviewed research, institutional reports, official statistics, legislation, policy documents and other credible evidence sources.
+
+**Explore:** [360PE Review Publications](publications.qmd)
+
+## Research Data and Reproducibility
+
+360PE supports transparent research practices and the responsible communication of analytical findings.
+
+Where resources have been verified and sharing rights permit, this section may provide:
+
+- Supporting datasets and data documentation
+- Statistical scripts and reproducibility materials
+- Methodological notes and analytical assumptions
+- Supplementary tables and statistical results
+- Descriptions of data limitations and uncertainty
+
+**Availability:** Additional resources will be published as they are prepared and cleared for sharing.
+
+## Evidence Registers and Source Documentation
+
+Evidence registers help readers examine the sources supporting specific publications.
+
+Where available, these resources may include:
+
+- Official statistical and administrative sources
+- Academic literature and institutional research
+- Policy documents, legislation and regulatory materials
+- Source verification notes
+- Qualifications, limitations and evidence gaps
+
+For the current inaugural publication, consult the supporting references and evidence documentation associated with the article.
+
+**Explore:** [360PE Review](publications.qmd)
+
+## Figures, Charts and Analytical Resources
+
+360PE uses visual analysis to communicate complex relationships between ecological change, economic systems, governance and development outcomes.
+
+Depending on the publication, supporting materials may include:
+
+- Data visualizations and comparative charts
+- Conceptual and analytical frameworks
+- Policy comparison tables
+- Sectoral and regional evidence summaries
+- Explanatory diagrams
+
+Figures and tables should identify their sources and distinguish empirical findings from conceptual illustrations.
+
+## Research Integrity and Responsible Data Use
+
+360PE aims to maintain clear distinctions between documented evidence, interpretation, uncertainty and policy recommendations.
+
+Research resources are shared only where relevant permissions, licensing requirements, data protection obligations and ethical considerations allow.
+
+The absence of a downloadable dataset or replication file should not be interpreted as evidence that the underlying research data are publicly available.
+
+For further information, consult the [Editorial Standards](editorial-standards.qmd).
+
+## Research Collaboration and Enquiries
+
+360PE welcomes proposals for interdisciplinary research collaborations, evidence synthesis, methodological exchange and responsible policy engagement.
+
+For enquiries, contact:
+
+**[contact@360politicalecology.org](mailto:contact@360politicalecology.org)**

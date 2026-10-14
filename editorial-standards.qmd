@@ -1,13 +1,160 @@
+
 ---
 title: "Editorial Standards"
+description: "Editorial principles governing evidence, independence, transparency, corrections and responsible publication at 360 Political Ecology."
 ---
 
-360PE publishes research-informed analysis, not automatically peer-reviewed scholarship.
+360 Political Ecology (360PE) is an independent, research-informed platform dedicated to evidence-based analysis of environmental change, political economy, economic development, sustainability and public policy.
 
-## Evidence and transparency
+Our guiding principles are **Evidence, Ecology, Equity and Development**.
 
-Claims should link to traceable sources. Tables and figures carry numbered titles above and notes and sources below. Differences between measured data, forecasts, model estimates and interpretation are identified explicitly.
+360PE publishes interdisciplinary commentary, analytical articles, policy perspectives and research-informed features. Publication on 360PE does **not** automatically constitute external academic peer review.
 
-## Independence and corrections
+## 1. Evidence Quality and Source Verification
 
-Alternative explanations and uncertainties are considered. Material corrections should be dated and described on the relevant article page. Readers may flag errors via the repository issue tracker without disclosing private information.
+360PE prioritizes verifiable, credible and contextually appropriate evidence.
+
+Sources may include:
+
+- Peer-reviewed scholarly research
+- Official national and international statistics
+- Government legislation, policy documents and regulatory records
+- Reports from established research institutions
+- Primary documents and appropriately identified datasets
+- Other sources whose credibility and limitations can be evaluated
+
+Authors and editors should:
+
+- Attribute substantive empirical claims to traceable sources.
+- Prefer primary evidence where reasonably available.
+- Verify consequential numerical claims, dates, quotations and legal references.
+- Distinguish established findings from preliminary or contested evidence.
+- Avoid presenting correlation as proof of causation.
+- Disclose important evidence gaps and limitations.
+
+Sources must not be fabricated or presented as having been consulted when they have not been examined.
+
+## 2. Analytical Transparency and Interpretation
+
+360PE distinguishes between:
+
+- Observed or measured data
+- Statistical and model-based estimates
+- Forecasts and scenarios
+- Conceptual arguments and interpretation
+- Editorial judgments and policy recommendations
+
+Quantitative claims should identify relevant measurement periods, geographical coverage, units and methodological qualifications where necessary.
+
+Alternative explanations, uncertainty and competing interpretations should be considered when material to an argument.
+
+## 3. Tables, Figures and Visual Evidence
+
+Tables and figures should be designed for clarity, accessibility and accurate interpretation.
+
+As a general convention:
+
+- Tables and figures receive numbered titles above the exhibit.
+- Source information and explanatory notes appear below.
+- Data visualizations identify appropriate units, periods and geographical coverage.
+- Conceptual illustrations are distinguished from empirical findings.
+- Material transformations or calculations are explained where relevant.
+
+Visual presentations must not knowingly distort relationships, uncertainty or the magnitude of findings.
+
+## 4. Editorial Review and Publication Process
+
+Before publication, 360PE aims to review manuscripts for:
+
+- Relevance to the platform's thematic areas
+- Clarity of argument and internal consistency
+- Quality, attribution and traceability of supporting evidence
+- Reasonable treatment of uncertainty and alternative explanations
+- Consistency between claims, illustrations and conclusions
+- Compliance with applicable ethical and copyright requirements
+
+Publication decisions are made through the platform's editorial process.
+
+**Unless expressly stated otherwise, 360PE articles have not undergone independent external peer review.**
+
+Individual publications may identify their article type, author, publication date, revision status and relevant methodological qualifications.
+
+## 5. Editorial Independence and Conflicts of Interest
+
+360PE seeks to maintain intellectual and editorial independence.
+
+Editorial conclusions should be guided by the available evidence and reasoned analysis rather than by undisclosed institutional, political or commercial interests.
+
+Relevant financial, professional or institutional relationships that could reasonably affect interpretation should be disclosed where appropriate.
+
+The founder's academic affiliations do not imply institutional sponsorship, endorsement or control over 360PE publications.
+
+Sponsorship or collaboration, where applicable, does not automatically confer control over editorial conclusions.
+
+## 6. Corrections, Clarifications and Updates
+
+Accuracy is an ongoing responsibility.
+
+Readers may report possible factual errors, misleading presentations, inaccurate citations or other substantive concerns.
+
+Requests should identify:
+
+- The publication title
+- The relevant section or passage
+- The disputed statement, figure or reference
+- Supporting evidence or a clear explanation of the concern
+
+Reports can be submitted to **[contact@360politicalecology.org](mailto:contact@360politicalecology.org)**.
+
+When a material error is confirmed, 360PE aims to correct the published content and provide an appropriately dated correction or revision note on the relevant publication page.
+
+Minor typographical or formatting changes may not require a separate public notice.
+
+Substantial updates should not silently alter the meaning of previously published findings.
+
+## 7. Research Ethics, Data Rights and Attribution
+
+360PE supports responsible research communication and respects applicable intellectual property, licensing and data protection requirements.
+
+Published materials should:
+
+- Properly credit original authors and data producers.
+- Avoid plagiarism and misleading attribution.
+- Respect restrictions on confidential or personally identifiable information.
+- Avoid sharing restricted datasets without permission.
+- State material limitations affecting data interpretation.
+- Respect copyright and applicable reuse conditions for text, images, figures and datasets.
+
+The availability of supporting research materials depends on verification, licensing and relevant permissions.
+
+## 8. AI-Assisted Research and Editorial Work
+
+Digital and AI-assisted tools may support research organization, language editing, coding, visualization and other editorial tasks.
+
+However:
+
+- Human editorial responsibility remains essential.
+- AI-generated claims, statistics and references require independent verification.
+- AI outputs must not be treated as authoritative evidence merely because they appear plausible.
+- AI assistance must not be used to fabricate sources, quotations, datasets or findings.
+- Material AI-generated or AI-modified content should be disclosed when its role is relevant to readers' assessment of the publication.
+
+AI assistance does not substitute for scholarly judgment, source verification or editorial accountability.
+
+## 9. Transparency About Publication Status
+
+360PE is a research-informed publication platform and does not claim to be an academic journal unless such a status is separately and explicitly established.
+
+Publications should be clearly identified according to their nature, such as analytical article, policy commentary, research feature or evidence synthesis.
+
+Where appropriate, the publication record should distinguish initial release dates, substantive revisions and subsequent updates.
+
+A publication's appearance on 360PE does not imply endorsement by the author's affiliated institutions.
+
+## 10. Feedback and Editorial Enquiries
+
+360PE welcomes constructive, evidence-informed engagement, including correction requests, methodological questions and alternative interpretations.
+
+**Editorial contact:** [contact@360politicalecology.org](mailto:contact@360politicalecology.org)
+
+For additional information, visit [About 360PE](about.qmd), [Research & Data](research.qmd) and [Contact](contact.qmd).
