@@ -15,7 +15,8 @@ listing:
     description: "Recent evidence-informed analysis from 360 Political Ecology"
 ---
 
-The **360PE Review** is an independent research-informed publication. Every article indicates its publication type, author, issue and supporting sources.
+**360PE Review** is the independent, research-informed publication of 360 Political Ecology (360PE). Publications are expected to identify their authors, publication dates, publication types, relevant issue or series designations, and supporting sources.
 
-Browse by topic and open an article to read or download the accompanying PDF when available.
+Browse publications by topic, read articles online, and download accompanying PDFs where available.
 
+[Learn about our editorial approach](about.qmd#our-five-stage-evidence-to-policy-framework) · [Editorial standards](editorial-standards.qmd)

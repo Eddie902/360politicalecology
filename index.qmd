@@ -1,10 +1,11 @@
+
 ---
 title: "360 Political Ecology"
 title-block-style: none
 page-layout: full
 toc: false
 image: images/360pe-masthead.png
-description: "360 Political Ecology (360PE) connects credible evidence with analysis of climate change, resource economics, environmental governance, equity and sustainable development."
+description: "360 Political Ecology (360PE) is an independent, research-informed platform connecting environmental change, economics, political ecology, equity and sustainable development through evidence-to-policy analysis."
 ---
 
 ::: {.hero-pe}
@@ -12,7 +13,9 @@ description: "360 Political Ecology (360PE) connects credible evidence with anal
 
 # Environmental change. Economic systems. Equitable development.
 
-**360 Political Ecology (360PE)** connects environmental change, economics, political economy and social equity through accessible, evidence-informed analysis.
+**360 Political Ecology (360PE)** examines how environmental change, economic systems, political institutions, resource governance and social equity shape sustainable development.
+
+Through **360PE Review**, we connect credible research with interdisciplinary interpretation, political-ecological analysis and informed policy dialogue.
 
 **Evidence · Ecology · Equity · Development**
 
@@ -21,30 +24,60 @@ description: "360 Political Ecology (360PE) connects credible evidence with anal
 
 ## Why 360PE exists
 
+Environmental and development challenges are interconnected. Climate change, energy transitions, natural resource extraction, ecological degradation and economic inequality cannot be adequately understood through a single disciplinary perspective.
+
+360PE brings economic, ecological, political and social perspectives together to examine these challenges, communicate research evidence and explore their implications for more equitable and sustainable development.
+
 ::: {.pe-home-grid}
 ::: {.pe-home-card}
-### Mission
+### Our mission
 
-To generate and share credible, evidence-informed knowledge that supports more equitable, sustainable and resilient societies.
+To generate, synthesize and share credible, evidence-informed knowledge that contributes to fairer, more sustainable and more resilient societies.
 :::
 ::: {.pe-home-card}
-### Purpose
+### Our purpose
 
-To help researchers, policymakers, practitioners and the wider public understand environmental and development challenges, assess trade-offs and consider viable responses.
+To make complex environmental and development questions understandable, relevant and actionable for researchers, policymakers, practitioners, students and the wider public—without sacrificing scientific rigor, contextual understanding or appropriate recognition of uncertainty.
 :::
 :::
 
-## How we work: from evidence to informed action
+## How we work: from evidence to policy understanding
 
-Our editorial approach moves from evidence to interpretation and policy dialogue. This is a **research communication pathway**, not a claim that every publication demonstrates policy impacts.
+360PE Review applies a **five-stage Evidence-to-Policy Framework** to connect empirical findings with critical interpretation and wider development implications.
 
-<div class="pe-work-grid" role="list" aria-label="360PE research communication pathway">
-  <div class="pe-work-step" role="listitem"><span>01</span><strong>Data &amp; research</strong><p>Use credible scientific, institutional and field-based evidence.</p></div>
-  <div class="pe-work-step" role="listitem"><span>02</span><strong>Critical analysis</strong><p>Assess competing explanations, limitations and uncertainties.</p></div>
-  <div class="pe-work-step" role="listitem"><span>03</span><strong>Environmental justice lens</strong><p>Ask who benefits, who bears costs and whose voices are heard.</p></div>
-  <div class="pe-work-step" role="listitem"><span>04</span><strong>Policy options</strong><p>Compare feasible, evidence-informed responses and trade-offs.</p></div>
-  <div class="pe-work-step" role="listitem"><span>05</span><strong>Development implications</strong><p>Examine potential implications for equitable and sustainable outcomes.</p></div>
+The framework guides research communication and policy analysis. It does not presume that every publication establishes causal relationships or demonstrates the effectiveness of proposed interventions.
+
+<div class="pe-work-grid" role="list" aria-label="360PE five-stage evidence-to-policy framework">
+  <div class="pe-work-step" role="listitem">
+    <span>01</span>
+    <strong>Finding</strong>
+    <p>Present documented observations, research results and credible quantitative evidence.</p>
+  </div>
+  <div class="pe-work-step" role="listitem">
+    <span>02</span>
+    <strong>Explanation</strong>
+    <p>Clarify meanings, definitions, context, methods, limitations and uncertainties.</p>
+  </div>
+  <div class="pe-work-step" role="listitem">
+    <span>03</span>
+    <strong>Expert interpretation</strong>
+    <p>Engage attributable expert knowledge, relevant scholarship and alternative explanations.</p>
+  </div>
+  <div class="pe-work-step" role="listitem">
+    <span>04</span>
+    <strong>Political-ecological analysis</strong>
+    <p>Examine economic incentives, institutions, power relationships, ecological processes and distributional consequences.</p>
+  </div>
+  <div class="pe-work-step" role="listitem">
+    <span>05</span>
+    <strong>Development and policy implications</strong>
+    <p>Consider governance responses, implementation constraints, trade-offs and potential development outcomes.</p>
+  </div>
 </div>
+
+**Our editorial approach:** Present the evidence. Explain its meaning. Engage expert knowledge. Examine the political-economic and ecological mechanisms. Connect the findings to wider development and policy implications.
+
+[Learn more about our analytical approach →](about.qmd#our-five-stage-evidence-to-policy-framework)
 
 ## Featured research
 
@@ -53,37 +86,84 @@ Our editorial approach moves from evidence to interpretation and policy dialogue
 
 ### [Africa's Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](articles/africa-battery-minerals/index.qmd)
 
-A comparative policy synthesis examining mineral export restrictions, productive capabilities, public value capture, ecological integrity and resilience in the DRC, Zimbabwe and Indonesia.
+A comparative policy synthesis examining whether mineral export restrictions can support sustainable industrialization in the Democratic Republic of the Congo, Zimbabwe and Indonesia.
+
+The analysis considers productive capabilities, public value capture, resource governance, ecological integrity, institutional constraints and the distribution of development benefits.
+
+It distinguishes observed policy outcomes from proposed causal mechanisms and identifies questions requiring further empirical evaluation.
 
 [Read the complete article →](articles/africa-battery-minerals/index.qmd)
 :::
 
 ## What we study
 
-Our publication spans ten interconnected thematic areas, from climate resilience to environmental law. Each 360PE Review article addresses at least one area.
+360PE Review organizes its research and analysis around **ten interconnected thematic areas**, encompassing environmental change, economic development, political ecology, sustainability and international environmental governance.
+
+Our homepage presents these areas in three broad groupings for accessibility. The [Topics page](topics.qmd) provides the official thematic categories.
 
 ::: {.pe-tiles}
 ::: {.pe-tile}
 **Climate, energy and industrial transitions**
 
-Climate adaptation; energy and resource economics; critical minerals and energy transitions.
+Climate change and resilience; energy and resource economics; critical minerals, industrial development and energy transitions.
 :::
 ::: {.pe-tile}
 **Justice, governance and ecosystems**
 
-Environmental justice and health; political economy; biodiversity and ecosystems.
+Environmental justice and health; environmental governance and political ecology; biodiversity, ecosystems and ecological sustainability.
 :::
 ::: {.pe-tile}
 **Development, finance and international policy**
 
-Sustainability, climate finance, Just Transition, and environmental law and treaties.
+Sustainable development; climate and sustainable finance; just transition; international environmental policy and law.
 :::
 :::
 
 [Explore all ten official research areas →](topics.qmd)
 
+## What guides our analysis
+
+360PE's editorial and analytical work is organized around four guiding principles.
+
+::: {.pe-home-grid}
+::: {.pe-home-card}
+### Evidence
+
+Prioritize credible sources, transparent attribution, methodological clarity and responsible interpretation of research findings.
+:::
+::: {.pe-home-card}
+### Ecology
+
+Examine environmental systems, ecological relationships, resource use and the consequences of environmental change.
+:::
+::: {.pe-home-card}
+### Equity
+
+Consider environmental justice, participation, distributional consequences and the allocation of development benefits and costs.
+:::
+::: {.pe-home-card}
+### Development
+
+Connect environmental and economic analysis with institutional capacity, policy choices, sustainability and long-term societal well-being.
+:::
+:::
+
+These principles guide the questions we ask and the evidence we examine. They do not predetermine our empirical conclusions.
+
+## Our guiding question
+
+> What does the evidence show, who benefits, who bears the costs, and how can development become more just and sustainable?
+
+360PE approaches environmental challenges as interconnected scientific, economic, institutional, ecological and distributive questions.
+
 ## Join the conversation
 
-360PE welcomes informed critique, research collaborations and constructive contributions. The publication was founded by **Dr. Amanfo Smart Edward, PhD**, and operates independently of any university or other institution.
+360PE welcomes informed critique, research collaborations, interdisciplinary dialogue and constructive contributions from researchers, policymakers, practitioners, students and the wider public.
+
+**360 Political Ecology was founded by Amanfo Smart Edward, PhD**, an interdisciplinary researcher working across environmental and development economics, sustainability and related policy fields.
+
+360PE operates as an **independent, research-informed publication and analytical platform**. Institutional affiliations mentioned in founder or contributor profiles are provided for identification and do not imply institutional sponsorship, endorsement or editorial responsibility.
+
+**360PE Review is not presented as a peer-reviewed academic journal.** Its publications aim to uphold evidence traceability, accurate attribution, analytical transparency and responsible policy interpretation.
 
 [About 360PE](about.qmd) · [Founder](founder.qmd) · [Editorial standards](editorial-standards.qmd) · [Contact](contact.qmd)

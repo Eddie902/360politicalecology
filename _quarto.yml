@@ -11,10 +11,11 @@ project:
     - "_redirects"
 
 
+
 website:
   title: "360 Political Ecology"
   site-url: "https://360politicalecology.org"
-  description: "360 Political Ecology (360PE) is an independent, research-informed platform examining climate change, energy and resource economics, environmental justice, environmental governance, and sustainable development."
+  description: "360 Political Ecology (360PE) is an independent, interdisciplinary, research-informed platform examining environmental change, economics, political ecology, environmental justice and sustainable development through evidence-informed analysis."
 
   favicon: "images/360pe-original-logo.png"
 
