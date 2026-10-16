@@ -5,10 +5,11 @@ title-block-style: none
 page-layout: full
 toc: false
 image: images/360pe-masthead.png
-description: "360 Political Ecology (360PE) is an independent, research-informed platform connecting environmental change, economics, political ecology, equity and sustainable development through evidence-to-policy analysis."
+description: "360 Political Ecology (360PE) is an independent, interdisciplinary, research-informed platform connecting environmental change, economics, political ecology, equity and sustainable development through evidence-to-policy analysis."
 ---
 
 ::: {.hero-pe}
+
 <span class="kicker">Independent · Interdisciplinary · Research-informed</span>
 
 # Environmental change. Economic systems. Equitable development.
@@ -20,6 +21,7 @@ Through **360PE Review**, we connect credible research with interdisciplinary in
 **Evidence · Ecology · Equity · Development**
 
 [Read 360PE Review](publications.qmd){.pe-button}
+
 :::
 
 ## Why 360PE exists
@@ -28,18 +30,25 @@ Environmental and development challenges are interconnected. Climate change, ene
 
 360PE brings economic, ecological, political and social perspectives together to examine these challenges, communicate research evidence and explore their implications for more equitable and sustainable development.
 
-::: {.pe-home-grid}
+:::: {.pe-home-grid}
+
 ::: {.pe-home-card}
+
 ### Our mission
 
 To generate, synthesize and share credible, evidence-informed knowledge that contributes to fairer, more sustainable and more resilient societies.
+
 :::
+
 ::: {.pe-home-card}
+
 ### Our purpose
 
 To make complex environmental and development questions understandable, relevant and actionable for researchers, policymakers, practitioners, students and the wider public—without sacrificing scientific rigor, contextual understanding or appropriate recognition of uncertainty.
+
 :::
-:::
+
+::::
 
 ## How we work: from evidence to policy understanding
 
@@ -47,33 +56,49 @@ To make complex environmental and development questions understandable, relevant
 
 The framework guides research communication and policy analysis. It does not presume that every publication establishes causal relationships or demonstrates the effectiveness of proposed interventions.
 
-<div class="pe-work-grid" role="list" aria-label="360PE five-stage evidence-to-policy framework">
-  <div class="pe-work-step" role="listitem">
-    <span>01</span>
-    <strong>Finding</strong>
-    <p>Present documented observations, research results and credible quantitative evidence.</p>
-  </div>
-  <div class="pe-work-step" role="listitem">
-    <span>02</span>
-    <strong>Explanation</strong>
-    <p>Clarify meanings, definitions, context, methods, limitations and uncertainties.</p>
-  </div>
-  <div class="pe-work-step" role="listitem">
-    <span>03</span>
-    <strong>Expert interpretation</strong>
-    <p>Engage attributable expert knowledge, relevant scholarship and alternative explanations.</p>
-  </div>
-  <div class="pe-work-step" role="listitem">
-    <span>04</span>
-    <strong>Political-ecological analysis</strong>
-    <p>Examine economic incentives, institutions, power relationships, ecological processes and distributional consequences.</p>
-  </div>
-  <div class="pe-work-step" role="listitem">
-    <span>05</span>
-    <strong>Development and policy implications</strong>
-    <p>Consider governance responses, implementation constraints, trade-offs and potential development outcomes.</p>
-  </div>
-</div>
+:::: {.pe-work-grid}
+
+::: {.pe-work-step}
+
+**01 — Finding**
+
+Present documented observations, research results and credible quantitative evidence.
+
+:::
+
+::: {.pe-work-step}
+
+**02 — Explanation**
+
+Clarify meanings, definitions, context, methods, limitations and uncertainties.
+
+:::
+
+::: {.pe-work-step}
+
+**03 — Expert interpretation**
+
+Engage attributable expert knowledge, relevant scholarship and alternative explanations.
+
+:::
+
+::: {.pe-work-step}
+
+**04 — Political-ecological analysis**
+
+Examine economic incentives, institutions, power relationships, ecological processes and distributional consequences.
+
+:::
+
+::: {.pe-work-step}
+
+**05 — Development and policy implications**
+
+Consider governance responses, implementation constraints, trade-offs and potential development outcomes.
+
+:::
+
+::::
 
 **Our editorial approach:** Present the evidence. Explain its meaning. Engage expert knowledge. Examine the political-economic and ecological mechanisms. Connect the findings to wider development and policy implications.
 
@@ -82,6 +107,7 @@ The framework guides research communication and policy analysis. It does not pre
 ## Featured research
 
 ::: {.pe-callout}
+
 **360PE Review | Issue 01**
 
 ### [Africa's Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](articles/africa-battery-minerals/index.qmd)
@@ -93,6 +119,7 @@ The analysis considers productive capabilities, public value capture, resource g
 It distinguishes observed policy outcomes from proposed causal mechanisms and identifies questions requiring further empirical evaluation.
 
 [Read the complete article →](articles/africa-battery-minerals/index.qmd)
+
 :::
 
 ## What we study
@@ -101,23 +128,33 @@ It distinguishes observed policy outcomes from proposed causal mechanisms and id
 
 Our homepage presents these areas in three broad groupings for accessibility. The [Topics page](topics.qmd) provides the official thematic categories.
 
-::: {.pe-tiles}
+:::: {.pe-tiles}
+
 ::: {.pe-tile}
+
 **Climate, energy and industrial transitions**
 
 Climate change and resilience; energy and resource economics; critical minerals, industrial development and energy transitions.
+
 :::
+
 ::: {.pe-tile}
+
 **Justice, governance and ecosystems**
 
 Environmental justice and health; environmental governance and political ecology; biodiversity, ecosystems and ecological sustainability.
+
 :::
+
 ::: {.pe-tile}
+
 **Development, finance and international policy**
 
 Sustainable development; climate and sustainable finance; just transition; international environmental policy and law.
+
 :::
-:::
+
+::::
 
 [Explore all ten official research areas →](topics.qmd)
 
@@ -125,28 +162,41 @@ Sustainable development; climate and sustainable finance; just transition; inter
 
 360PE's editorial and analytical work is organized around four guiding principles.
 
-::: {.pe-home-grid}
+:::: {.pe-home-grid}
+
 ::: {.pe-home-card}
+
 ### Evidence
 
 Prioritize credible sources, transparent attribution, methodological clarity and responsible interpretation of research findings.
+
 :::
+
 ::: {.pe-home-card}
+
 ### Ecology
 
 Examine environmental systems, ecological relationships, resource use and the consequences of environmental change.
+
 :::
+
 ::: {.pe-home-card}
+
 ### Equity
 
 Consider environmental justice, participation, distributional consequences and the allocation of development benefits and costs.
+
 :::
+
 ::: {.pe-home-card}
+
 ### Development
 
 Connect environmental and economic analysis with institutional capacity, policy choices, sustainability and long-term societal well-being.
+
 :::
-:::
+
+::::
 
 These principles guide the questions we ask and the evidence we examine. They do not predetermine our empirical conclusions.
 
