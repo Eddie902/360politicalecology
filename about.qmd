@@ -1,77 +1,127 @@
+
 ---
 title: "About 360 Political Ecology"
-description: "360PE's mission, purpose, evidence-informed editorial approach, principles, audience and independent identity."
+description: "Discover 360 Political Ecology (360PE), its mission, research areas, five-stage evidence-to-policy framework, editorial principles, audiences and independent identity."
 toc: true
 ---
 
-**360 Political Ecology (360PE)** is an independent, interdisciplinary, research-informed platform that examines how environmental change, economic systems, institutions and social equity shape sustainable development.
+**360 Political Ecology (360PE)** is an independent, interdisciplinary, research-informed platform examining how environmental change, economic systems, political institutions, resource governance and social equity shape sustainable development.
+
+Through **360PE Review**, the platform communicates research findings, evaluates competing explanations, examines political-economic and ecological relationships, and explores implications for policy and development.
 
 **Guiding principles:** Evidence · Ecology · Equity · Development.
 
 ## Our mission
 
-To generate and share credible, evidence-informed knowledge that supports fairer, more sustainable and more resilient societies.
+To generate, synthesize and share credible, evidence-informed knowledge that contributes to fairer, more sustainable and more resilient societies.
+
+360PE seeks to bridge scientific research, public understanding and policy dialogue while maintaining analytical independence, transparency and appropriate recognition of uncertainty.
 
 ## Our purpose
 
-To make complex environmental and development questions understandable, relevant and actionable for researchers, policymakers, practitioners, students and the wider public—without losing important scientific qualifications or uncertainty.
+To make complex environmental and development questions understandable, relevant and actionable for researchers, policymakers, practitioners, students and the wider public—without sacrificing scientific rigor, contextual understanding or important qualifications.
+
+Our work connects empirical findings with the economic, institutional, political and ecological processes that influence environmental outcomes and development opportunities.
 
 ## What we study
 
-360PE Review uses [ten official areas of analysis](topics.qmd), including climate change, energy and resource economics, critical minerals, environmental justice and health, environmental governance, ecosystems, sustainability, climate finance, Just Transition, and international environmental policy and law.
+360PE Review organizes its research and analysis around [ten official areas of analysis](topics.qmd), covering climate change, energy and resource economics, critical minerals, environmental justice and health, environmental governance, ecosystems, sustainability, climate finance, just transition, and international environmental policy and law.
 
-The six broad perspectives in the institutional overview graphic are **illustrative conceptual perspectives**, not a replacement for the ten official thematic categories.
+These areas are interconnected. For example, energy transitions raise questions about mineral extraction, investment, industrial development, environmental protection, community livelihoods and the distribution of economic benefits.
+
+The six broad perspectives presented in our institutional overview graphic are **illustrative conceptual perspectives**, not replacements for the ten official thematic categories.
 
 ## How we work
+
+360PE combines scientific evidence, interdisciplinary interpretation, political-ecological analysis and policy-oriented communication.
 
 ::: {.pe-home-grid}
 ::: {.pe-home-card}
 ### Evidence and research
 
-Use traceable scientific, institutional and field-based sources; describe definitions, limitations and uncertainties.
+Draw on traceable scientific, institutional and field-based sources. Explain data definitions, research methods, limitations and uncertainties.
 :::
 ::: {.pe-home-card}
 ### Critical interdisciplinary analysis
 
-Compare interpretations, incentives, institutional contexts and plausible alternatives.
+Evaluate competing explanations and examine economic incentives, institutional arrangements, ecological relationships and relevant contextual factors.
 :::
 ::: {.pe-home-card}
 ### Justice and distribution
 
-Consider who benefits, who bears environmental and social costs, and who participates in decisions.
+Investigate who benefits, who bears environmental and social costs, whose knowledge is recognized, and who participates in decisions.
 :::
 ::: {.pe-home-card}
 ### Policy dialogue
 
-Discuss credible options, implementation constraints and potential—not presumed—development outcomes.
+Assess policy options, implementation constraints, trade-offs and potential development outcomes without treating proposed interventions as proven solutions.
 :::
 :::
+
+## Our five-stage evidence-to-policy framework
+
+360PE Review follows a structured analytical approach designed to connect research evidence with public understanding and policy relevance.
+
+The framework consists of five complementary stages:
+
+1. **Finding:** Present the central empirical observation, research result, documented event or relevant quantitative evidence.
+
+2. **Explanation:** Clarify what the finding means, including its definitions, geographical and temporal context, methodological limitations and uncertainties.
+
+3. **Expert interpretation:** Engage relevant peer-reviewed research, attributable expert perspectives and credible alternative explanations. Distinguish documented expert views from 360PE's own analysis.
+
+4. **Political-ecological analysis:** Examine the economic incentives, institutional arrangements, power relationships, ecological processes and distributional consequences that may explain the observed outcomes. Distinguish established findings from plausible but unverified causal mechanisms.
+
+5. **Wider development and policy implications:** Connect the analysis to governance, sustainability, economic development and public policy. Discuss actionable responses, implementation challenges, trade-offs and ways to evaluate outcomes.
+
+These stages guide the analytical development of our publications rather than prescribing an inflexible writing format.
+
+**Our editorial approach:** Present the evidence. Explain its meaning. Engage expert knowledge. Examine the political-economic and ecological mechanisms. Connect the findings to wider development and policy implications.
 
 ## What distinguishes 360PE
 
-- **Evidence-based:** Sources and quantitative claims should be traceable and appropriately qualified.
-- **Interdisciplinary:** Economic, ecological, political and social perspectives inform analysis.
-- **Justice-centred:** Distributional effects and public participation are central questions.
-- **Globally informed, locally relevant:** Analysis considers low- and emerging-income economies while remaining globally engaged.
-- **Independent and balanced:** We engage with competing arguments rather than presenting advocacy as causal evidence.
-- **Solution-oriented:** Analysis can inform policy discussion without claiming an intervention's effectiveness before it has been evaluated.
+- **Evidence-based:** Sources, empirical findings and quantitative claims should be traceable, accurately represented and appropriately qualified.
+- **Interdisciplinary:** Economic, ecological, political, institutional and social perspectives inform our analysis.
+- **Justice-centred:** Distributional consequences, environmental rights and meaningful participation are central analytical concerns.
+- **Globally informed, locally relevant:** Our work pays particular attention to low- and emerging-income economies while engaging with global environmental and development challenges.
+- **Independent and critically balanced:** We examine competing arguments, disclose relevant limitations and distinguish normative positions from empirical or causal evidence.
+- **Transparent about uncertainty:** We identify data gaps, methodological constraints and the limits of available evidence.
+- **Solution-oriented:** Our analysis explores credible policy responses without presuming their effectiveness before adequate evaluation.
 
 ## Who we serve
 
-Researchers and academics; policymakers and public agencies; development and finance institutions; civil-society organizations; business leaders; students and emerging professionals; and an interested wider public.
+360PE serves a diverse audience, including:
+
+- Researchers, academics and interdisciplinary scholars.
+- Policymakers, public agencies and regulatory institutions.
+- Development organizations and international institutions.
+- Financial institutions, investors and sustainability practitioners.
+- Civil-society organizations and community-based initiatives.
+- Business leaders and professionals working on environmental and development challenges.
+- Students, emerging researchers and the wider interested public.
+
+Our aim is to make rigorous environmental and development analysis accessible across academic, policy, professional and public audiences.
 
 ## 360PE at a glance
 
 ![360PE institutional overview infographic presenting its mission, purpose, research communication process, distinctive approach and intended audience.](images/360pe-institutional-overview.jpg){width="100%" fig-alt="Long-form institutional infographic outlining 360 Political Ecology's mission and purpose; six illustrative conceptual perspectives; an evidence-to-policy communication process; distinctive values; intended audiences; and the overarching question of who benefits and who bears development costs."}
 
-*Figure. Institutional overview of 360 Political Ecology (360PE). This is a public-communication infographic; its six broad perspectives should not be confused with the ten official areas of analysis. Source: 360PE, supplied institutional visual (2026).*
+*Figure. Institutional overview of 360 Political Ecology (360PE). This public-communication infographic presents six broad conceptual perspectives, which should not be confused with the ten official areas of analysis. Source: 360PE, supplied institutional visual (2026).*
 
 ## Our guiding question
 
 > What does the evidence show, who benefits, who bears the costs, and how can development become more just and sustainable?
 
+This question reflects 360PE's commitment to examining environmental change not only as a scientific issue but also as an economic, institutional, ecological and distributive challenge.
+
 ## Founder, independence and editorial standards
 
-360PE was founded by **Dr. Amanfo Smart Edward, PhD**. Institutional affiliations included in contributor profiles are for identification and do not imply institutional endorsement. 360PE Review is **not presented as a peer-reviewed academic journal**.
+360 Political Ecology (360PE) was founded by **Amanfo Smart Edward, PhD**, an interdisciplinary researcher working across environmental and development economics, sustainability and related policy fields.
+
+360PE operates as an independent research-informed communication and analytical platform. Institutional affiliations included in founder or contributor profiles are provided for identification and do not imply institutional sponsorship, endorsement or editorial responsibility.
+
+**360PE Review is an independent research-informed publication and is not presented as a peer-reviewed academic journal.** Its publications seek to uphold standards of evidence traceability, accurate attribution, analytical transparency, responsible interpretation and clear distinction between research findings, commentary and policy recommendations.
+
+For further information, see our founder profile, editorial standards and contact page.
 
 [Meet the founder](founder.qmd) · [Read our editorial standards](editorial-standards.qmd) · [Contact 360PE](contact.qmd)
