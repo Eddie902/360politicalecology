@@ -1,0 +1,60 @@
+---
+title: "Media & Dialogues"
+description: "Research-informed video, visual explainers and public dialogue from 360 Political Ecology."
+toc: true
+---
+
+360 Political Ecology (360PE) communicates research evidence through accessible formats while preserving links to original sources, uncertainty, and the distinction between documented findings and interpretation.
+
+**Media & Dialogues is being established.** No videos, interviews, podcasts, or social media releases are listed as published until their source records and public URLs have been verified.
+
+## How our media connects to research
+
+Every released 360PE media product will identify its related [360PE Review](publications.qmd) publication or supporting evidence, its research [topic](topics.qmd), and its publication date. Where applicable, we will provide transcripts, source notes, and corrections.
+
+::: {.pe-v3-media-grid}
+
+::: {.pe-v3-media-card}
+
+### Video & Explainers
+
+Research questions explained with source attribution and appropriate acknowledgment of uncertainty.
+
+**Status:** Media archive forthcoming.
+
+:::
+
+::: {.pe-v3-media-card}
+
+### Visual Stories
+
+Evidence-based charts, diagrams, and accessible visual summaries with clear data provenance.
+
+**Status:** Media archive forthcoming.
+
+:::
+
+::: {.pe-v3-media-card}
+
+### Interviews & Dialogues
+
+Attributable expert perspectives and constructive conversations, distinguishing guest opinions from verified evidence.
+
+**Status:** Media archive forthcoming.
+
+:::
+
+:::
+
+## Explore the evidence now
+
+- [360PE Review — publications](publications.qmd)
+- [Research & Data — sources and methods](research.qmd)
+- [All twelve research topics](topics.qmd)
+- [Editorial Standards](editorial-standards.qmd)
+
+## Participate responsibly
+
+We welcome constructive research questions, corrections, and collaboration proposals through our [Contact page](contact.qmd). External social channels will be linked here only after their official ownership and destinations have been confirmed.
+
+360PE is an independent, research-informed publication and analytical platform. Media published by 360PE does not imply independent external academic peer review.
