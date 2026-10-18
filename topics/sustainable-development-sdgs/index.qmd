@@ -36,8 +36,3 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Environmental & Development Economics](../environmental-development-economics/index.qmd)
 - [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)
 - [Water, Land & Food Systems](../water-land-food-systems/index.qmd)
-
----
-
-*360PE's V3 research taxonomy expands the original ten areas of analysis without replacing the [foundational framework](../../topics.qmd#foundational-ten-areas-of-analysis).*  
-*Evidence · Ecology · Equity · Development*
