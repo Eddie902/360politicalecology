@@ -36,8 +36,3 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Biodiversity & Ecosystems](../biodiversity-ecosystems/index.qmd)
 - [Environmental Justice](../environmental-justice/index.qmd)
 - [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)
-
----
-
-*360PE's V3 research taxonomy expands the original ten areas of analysis without replacing the [foundational framework](../../topics.qmd#foundational-ten-areas-of-analysis).*  
-*Evidence · Ecology · Equity · Development*
