@@ -14,7 +14,7 @@ secondary_topics: ["ENE", "GOV", "JUS"]
 geographies: ["Africa", "Indonesia"]
 analytical_lenses: ["Political Ecology", "Environmental Economics"]
 evidence_types: ["Official statistics", "Policy documents", "Peer-reviewed research"]
-language: "en"
+content_language: "en"
 status: "advance_online"
 issue_status: "pending_final_checks"
 ---
