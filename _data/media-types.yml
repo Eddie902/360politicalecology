@@ -1,0 +1,30 @@
+# Delivery formats, distinct from the six editorial content types.
+version: 1
+media_types:
+  - id: long_video
+    label: "Long-form video"
+  - id: short_video
+    label: "Short-form video"
+  - id: interview
+    label: "Interview or dialogue"
+  - id: audio
+    label: "Audio"
+  - id: carousel
+    label: "Visual carousel"
+  - id: infographic
+    label: "Infographic"
+platforms:
+  - youtube
+  - linkedin
+  - instagram
+  - facebook
+  - tiktok
+statuses:
+  - planned
+  - draft
+  - in_review
+  - approved
+  - published
+  - corrected
+  - withdrawn
+  - archived

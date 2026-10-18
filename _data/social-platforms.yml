@@ -1,0 +1,24 @@
+# No official account is asserted until ownership and URL are verified.
+# PR #6A establishes the registry only; it does not connect or publish to platforms.
+version: 1
+accounts:
+  - platform: youtube
+    verified: false
+    url: null
+    verified_on: null
+  - platform: linkedin
+    verified: false
+    url: null
+    verified_on: null
+  - platform: instagram
+    verified: false
+    url: null
+    verified_on: null
+  - platform: facebook
+    verified: false
+    url: null
+    verified_on: null
+  - platform: tiktok
+    verified: false
+    url: null
+    verified_on: null

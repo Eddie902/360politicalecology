@@ -18,6 +18,7 @@ on:
       - website-v2
       - feature/360pe-v3-knowledge-architecture
       - feature/360pe-v3-topic-navigation
+      - feature/360pe-v3-pr6a-media-foundation
 
   pull_request:
     branches:
@@ -51,6 +52,14 @@ jobs:
           python -m pip install --quiet PyYAML
           python scripts/validate_metadata.py
 
+      # V3 PR 6A: MEDIA REGISTRY VALIDATION AND REGRESSION TESTS
+      - name: Validate media registry and verified account rules
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/validate_media.py
+          python -m unittest discover -s tests -p 'test_media_validation.py' -v
+
       # STEP 3: RENDER WEBSITE
       - name: Render website
         shell: bash
@@ -74,6 +83,7 @@ jobs:
           test -f _site/contact.html
           test -f _site/publications.html
           test -f _site/research.html
+          test -f _site/media.html
           test -f _site/editorial-standards.html
 
           echo "Checking all V3 topic pages..."
@@ -131,6 +141,18 @@ jobs:
           grep -q '360pe-areas-of-analysis.png' _site/topics.html
           grep -q 'articles/africa-battery-minerals/' _site/topics/critical-minerals-extractives/index.html
           echo "SUCCESS: V3 topic discovery and original infographic preserved."
+
+      # V3 PR 6A: MEDIA FOUNDATION WITHOUT UNVERIFIED PUBLIC CLAIMS
+      - name: Verify media foundation
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -q 'Media &amp; Dialogues' _site/index.html
+          grep -q 'Media &amp; Dialogues' _site/media.html
+          grep -q 'Media archive forthcoming' _site/media.html
+          test -f _site/topics.html
+          test -f _site/articles/africa-battery-minerals/index.html
+          echo "SUCCESS: media navigation and empty-state page verified."
 
       # STEP 5: VERIFY INAUGURAL ARTICLE CONTENT
       - name: Verify inaugural publication

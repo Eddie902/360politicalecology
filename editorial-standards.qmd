@@ -158,3 +158,19 @@ A publication's appearance on 360PE does not imply endorsement by the author's a
 **Editorial contact:** [contact@360politicalecology.org](mailto:contact@360politicalecology.org)
 
 For additional information, visit [About 360PE](about.qmd), [Research & Data](research.qmd) and [Contact](contact.qmd).
+
+
+## 11. Multimedia and Social Media Integrity
+
+360PE media, including video, audio, short-form clips, and visual explainers, must preserve the distinction between documented evidence, interpretation, uncertainty, and policy judgment.
+
+- Every published media product should identify its underlying research publication or other traceable source documentation.
+- Quantitative graphics and edited excerpts must preserve context, units, dates, and qualifications; edits must not change the substantive meaning of a source.
+- Substantive factual claims in captions, scripts, thumbnails, and platform descriptions are subject to the same verification standards as written articles.
+- Videos and audio should provide accessible captions or transcripts where practicable; published 360PE media records require transcripts for video/audio.
+- Images, audio, video, and quotations must comply with applicable permissions, attribution, privacy, and licensing requirements.
+- Interviewee views must be attributed and must not be presented as independent institutional endorsement.
+- Material errors in derivative media should be corrected or withdrawn where possible, with an appropriately dated notice and links to corrected source material.
+- External social accounts are identified as official only after ownership and URLs are verified.
+
+Social engagement metrics do not substitute for evidence quality or editorial independence.
