@@ -40,3 +40,5 @@ The article remains an **advance online publication**, with final Issue 01 check
 - [Energy Security & Transitions](../energy-security-transitions/index.qmd)
 - [Environmental Governance & Policy](../environmental-governance-policy/index.qmd)
 - [Environmental Justice](../environmental-justice/index.qmd)
+
+{{< include ../../_generated_media/topics/critical-minerals-extractives.md >}}
