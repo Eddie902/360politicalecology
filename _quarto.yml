@@ -82,6 +82,9 @@ website:
       - text: "Research & Data"
         href: research.qmd
 
+      - text: "Media & Dialogues"
+        href: media.qmd
+
       - text: "About"
         menu:
           - text: "About 360PE"
