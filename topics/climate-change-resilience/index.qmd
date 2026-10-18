@@ -36,3 +36,5 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Biodiversity & Ecosystems](../biodiversity-ecosystems/index.qmd)
 - [Environmental Justice](../environmental-justice/index.qmd)
 - [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)
+
+{{< include ../../_generated_media/topics/climate-change-resilience.md >}}
