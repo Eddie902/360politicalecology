@@ -36,3 +36,5 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Energy Security & Transitions](../energy-security-transitions/index.qmd)
 - [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
 - [Environmental & Development Economics](../environmental-development-economics/index.qmd)
+
+{{< include ../../_generated_media/topics/technology-green-transitions.md >}}
