@@ -9,4 +9,6 @@ if ! command -v quarto >/dev/null 2>&1; then
   export PATH="/tmp/quarto-bin/quarto-${VERSION}/bin:${PATH}"
 fi
 quarto --version
+python3 -m pip install --quiet PyYAML
+python3 scripts/build_media.py
 quarto render
