@@ -40,8 +40,3 @@ The article remains an **advance online publication**, with final Issue 01 check
 - [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
 - [Energy Security & Transitions](../energy-security-transitions/index.qmd)
 - [Environmental Governance & Policy](../environmental-governance-policy/index.qmd)
-
----
-
-*360PE's V3 research taxonomy expands the original ten areas of analysis without replacing the [foundational framework](../../topics.qmd#foundational-ten-areas-of-analysis).*  
-*Evidence · Ecology · Equity · Development*
