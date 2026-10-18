@@ -78,7 +78,7 @@ def main():
         ERRORS.append("No article source files found")
     for path in article_paths:
         raw = path.read_text(encoding="utf-8-sig")
-        match = re.match(r"^---\\s*\\n(.*?)\\n---(?:\\s*\\n|$)", raw, flags=re.S)
+        match = re.match(r"^---\s*\n(.*?)\n---(?:\s*\n|$)", raw, flags=re.S)
         if not match:
             ERRORS.append(f"{path.relative_to(ROOT)}: missing YAML front matter")
             continue
