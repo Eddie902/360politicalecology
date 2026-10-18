@@ -17,6 +17,7 @@ on:
       - main
       - website-v2
       - feature/360pe-v3-knowledge-architecture
+      - feature/360pe-v3-topic-navigation
 
   pull_request:
     branches:
@@ -75,6 +76,23 @@ jobs:
           test -f _site/research.html
           test -f _site/editorial-standards.html
 
+          echo "Checking all V3 topic pages..."
+          for slug in \
+            climate-change-resilience \
+            biodiversity-ecosystems \
+            environmental-justice \
+            energy-security-transitions \
+            critical-minerals-extractives \
+            water-land-food-systems \
+            environmental-development-economics \
+            sustainable-finance-investment \
+            sustainable-development-sdgs \
+            environmental-governance-policy \
+            political-ecology-geopolitics \
+            technology-green-transitions; do
+            test -f "_site/topics/$slug/index.html"
+          done
+
           echo "Checking inaugural article..."
           test -f _site/articles/africa-battery-minerals/index.html
 
@@ -101,6 +119,18 @@ jobs:
           test -f _site/publications.xml
 
           echo "SUCCESS: Essential website files verified."
+
+      # V3 PR 5: VERIFY TOPIC DISCOVERY LINKS
+      - name: Verify V3 topic discovery
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -q 'topics/critical-minerals-extractives/' _site/topics.html
+          grep -q 'topics/energy-security-transitions/' _site/publications.html
+          grep -q 'topics/climate-change-resilience/' _site/topics.html
+          grep -q '360pe-areas-of-analysis.png' _site/topics.html
+          grep -q 'articles/africa-battery-minerals/' _site/topics/critical-minerals-extractives/index.html
+          echo "SUCCESS: V3 topic discovery and original infographic preserved."
 
       # STEP 5: VERIFY INAUGURAL ARTICLE CONTENT
       - name: Verify inaugural publication
