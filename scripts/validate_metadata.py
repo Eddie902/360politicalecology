@@ -87,7 +87,7 @@ def main():
         except (yaml.YAMLError, ValueError) as exc:
             ERRORS.append(f"{path.relative_to(ROOT)}: {exc}")
             continue
-        for field in ("content_id", "title", "date", "author", "description", "content_type", "primary_topic", "status"):
+        for field in ("content_id", "title", "date", "author", "description", "content_type", "primary_topic", "content_language", "status"):
             if not data.get(field):
                 ERRORS.append(f"{path.relative_to(ROOT)}: missing {field}")
         if data.get("content_id"):
