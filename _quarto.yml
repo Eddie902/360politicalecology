@@ -5,6 +5,7 @@ project:
     - "*.qmd"
     - "articles/**/*.qmd"
     - "topics/**/*.qmd"
+    - "media/**/*.qmd"
   resources:
     - "images/**"
     - "articles/**/*.pdf"
