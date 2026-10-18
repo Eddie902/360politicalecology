@@ -16,6 +16,7 @@ on:
     branches:
       - main
       - website-v2
+      - feature/360pe-v3-knowledge-architecture
 
   pull_request:
     branches:
@@ -40,6 +41,14 @@ jobs:
       # STEP 2: INSTALL QUARTO
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      # V3 PR 1: VALIDATE CONTROLLED METADATA BEFORE RENDERING
+      - name: Validate V3 metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --quiet PyYAML
+          python scripts/validate_metadata.py
 
       # STEP 3: RENDER WEBSITE
       - name: Render website

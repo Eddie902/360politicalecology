@@ -1,0 +1,44 @@
+# Historical-to-V3 crosswalk. Original 10 areas remain intact on topics.qmd.
+version: 3
+legacy_framework: "360PE Ten Areas of Analysis (2026)"
+mappings:
+  - legacy_id: 01
+    legacy_label: "Climate change: mitigation, adaptation and resilience"
+    primary_topic: CLM
+    secondary_topics: []
+  - legacy_id: 02
+    legacy_label: "Energy and resource economics"
+    primary_topic: ENE
+    secondary_topics: [ECO]
+  - legacy_id: 03
+    legacy_label: "Critical minerals and energy transitions"
+    primary_topic: MIN
+    secondary_topics: [ENE]
+  - legacy_id: 04
+    legacy_label: "Environmental justice and health"
+    primary_topic: JUS
+    secondary_topics: []
+  - legacy_id: 05
+    legacy_label: "Environmental governance and political economy"
+    primary_topic: GOV
+    secondary_topics: [POL]
+  - legacy_id: 06
+    legacy_label: "Biodiversity and ecosystems"
+    primary_topic: BIO
+    secondary_topics: []
+  - legacy_id: 07
+    legacy_label: "Sustainability and sustainable development"
+    primary_topic: DEV
+    secondary_topics: [ECO]
+  - legacy_id: 08
+    legacy_label: "Climate finance"
+    primary_topic: FIN
+    secondary_topics: []
+  - legacy_id: 09
+    legacy_label: "Just Transition"
+    primary_topic: JUS
+    secondary_topics: [ENE, ECO]
+  - legacy_id: 10
+    legacy_label: "Regional and international environmental policy, law, treaties and declarations"
+    primary_topic: GOV
+    secondary_topics: [POL]

@@ -1,0 +1,21 @@
+# Controlled editorial format registry; not claims of peer review.
+version: 3
+content_types:
+  - id: review
+    label: "360PE Review"
+    description: "Substantive research-informed analysis"
+  - id: explained
+    label: "360PE Explained"
+    description: "Accessible, question-led explainer"
+  - id: data_brief
+    label: "360PE Data Brief"
+    description: "Documented interpretation of data and indicators"
+  - id: policy_perspective
+    label: "360PE Policy Perspectives"
+    description: "Policy options, trade-offs and implications"
+  - id: visual_story
+    label: "360PE Visual Stories"
+    description: "Visual-first evidence communication"
+  - id: media
+    label: "360PE Media"
+    description: "Video, interview, or audio with source record"

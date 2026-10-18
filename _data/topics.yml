@@ -1,0 +1,74 @@
+# 360PE V3 controlled thematic taxonomy. Navigation labels are not historical 10-area labels.
+version: 3
+status: proposed
+principles: [Evidence, Ecology, Equity, Development]
+domains:
+  - id: A
+    label: "Climate, Ecology & Justice"
+  - id: B
+    label: "Energy, Resources & Material Systems"
+  - id: C
+    label: "Economics, Finance & Development"
+  - id: D
+    label: "Governance, Power & Transformation"
+topics:
+  - id: CLM
+    label: "Climate Change & Resilience"
+    slug: climate-change-resilience
+    domain: A
+    description: "Climate science, mitigation, adaptation, vulnerability and resilience"
+  - id: BIO
+    label: "Biodiversity & Ecosystems"
+    slug: biodiversity-ecosystems
+    domain: A
+    description: "Ecosystems, conservation, biodiversity, restoration and ecosystem services"
+  - id: JUS
+    label: "Environmental Justice"
+    slug: environmental-justice
+    domain: A
+    description: "Environmental inequality, health equity, human rights and just transitions"
+  - id: ENE
+    label: "Energy Security & Transitions"
+    slug: energy-security-transitions
+    domain: B
+    description: "Energy access, poverty, renewables, security and decarbonization"
+  - id: MIN
+    label: "Critical Minerals & Extractives"
+    slug: critical-minerals-extractives
+    domain: B
+    description: "Minerals, mining, supply chains, industrial policy and extractive governance"
+  - id: WLF
+    label: "Water, Land & Food Systems"
+    slug: water-land-food-systems
+    domain: B
+    description: "Agriculture, water security, land use, food systems and resource conflict"
+  - id: ECO
+    label: "Environmental & Development Economics"
+    slug: environmental-development-economics
+    domain: C
+    description: "Economic valuation, environmental policy, welfare and structural transformation"
+  - id: FIN
+    label: "Sustainable Finance & Investment"
+    slug: sustainable-finance-investment
+    domain: C
+    description: "Climate finance, green investment, transition finance and capital allocation"
+  - id: DEV
+    label: "Sustainable Development & SDGs"
+    slug: sustainable-development-sdgs
+    domain: C
+    description: "Livelihoods, poverty, equity, inclusive growth and SDG interactions"
+  - id: GOV
+    label: "Environmental Governance & Policy"
+    slug: environmental-governance-policy
+    domain: D
+    description: "Institutions, environmental law, policy coherence and implementation"
+  - id: POL
+    label: "Political Ecology & Geopolitics"
+    slug: political-ecology-geopolitics
+    domain: D
+    description: "Power, resource politics, distributional conflicts and geopolitical dynamics"
+  - id: TEC
+    label: "Technology & Green Transitions"
+    slug: technology-green-transitions
+    domain: D
+    description: "Clean technology, innovation, digital transformation and circular economy"
