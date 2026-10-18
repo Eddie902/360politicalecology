@@ -79,7 +79,7 @@ def detail(r, source, topics):
     title = r["title"]
     slug = r["slug"]
     meta = {"title": title, "description": r["summary"], "date": str(r["published_at"]), "toc": True, "search": True}
-    body = [GENERATED, "---", yaml.safe_dump(meta, allow_unicode=True, sort_keys=False).strip(), "---", "",
+    body = ["---", yaml.safe_dump(meta, allow_unicode=True, sort_keys=False).strip(), "---", GENERATED, "",
             "[Media & Dialogues](../../media.qmd) · [360PE Review](../../publications.qmd)", "",
             str(r["summary"]), "", "## Watch, listen, or view", ""]
     if r.get("distribution"):
@@ -122,7 +122,7 @@ def generate(root=ROOT):
     media_root = root / "media"
     if media_root.exists():
         for existing in sorted(media_root.glob("*/index.qmd")):
-            if existing.read_text(encoding="utf-8").startswith(GENERATED):
+            if GENERATED in existing.read_text(encoding="utf-8")[:500]:
                 existing.unlink()
                 if not list(existing.parent.iterdir()):
                     existing.parent.rmdir()
