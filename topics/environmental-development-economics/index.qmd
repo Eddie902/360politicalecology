@@ -36,3 +36,5 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Energy Security & Transitions](../energy-security-transitions/index.qmd)
 - [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)
 - [Sustainable Development & SDGs](../sustainable-development-sdgs/index.qmd)
+
+{{< include ../../_generated_media/topics/environmental-development-economics.md >}}
