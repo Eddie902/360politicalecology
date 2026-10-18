@@ -19,4 +19,8 @@ listing:
 
 Browse publications by topic, read articles online, and download accompanying PDFs where available.
 
+**Explore research topics:** [All 12 thematic topic pages](topics.qmd) · [Critical Minerals & Extractives](topics/critical-minerals-extractives/index.qmd) · [Energy Security & Transitions](topics/energy-security-transitions/index.qmd) · [Environmental Justice](topics/environmental-justice/index.qmd) · [Environmental Governance & Policy](topics/environmental-governance-policy/index.qmd)
+
+Topic pages identify articles through their V3 primary and secondary classifications. The inaugural analysis remains an **advance online publication**, pending its final Issue 01 checks.
+
 [Learn about our editorial approach](about.qmd#our-five-stage-evidence-to-policy-framework) · [Editorial standards](editorial-standards.qmd)
