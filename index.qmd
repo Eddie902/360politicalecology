@@ -124,9 +124,9 @@ It distinguishes observed policy outcomes from proposed causal mechanisms and id
 
 ## What we study
 
-360PE Review organizes its research and analysis around **ten interconnected thematic areas**, encompassing environmental change, economic development, political ecology, sustainability and international environmental governance.
+360PE now provides **twelve navigable research topics in four knowledge domains**, expanding its original ten-area analytical framework. The [Topics page](topics.qmd) retains the original ten areas and infographic while connecting visitors to the new thematic landing pages.
 
-Our homepage presents these areas in three broad groupings for accessibility. The [Topics page](topics.qmd) provides the official thematic categories.
+Our homepage summarizes these research interests in three broad groupings for accessibility.
 
 :::: {.pe-tiles}
 
@@ -156,7 +156,7 @@ Sustainable development; climate and sustainable finance; just transition; inter
 
 ::::
 
-[Explore all ten official research areas →](topics.qmd)
+[Explore all twelve research topics and the original framework →](topics.qmd)
 
 ## What guides our analysis
 
