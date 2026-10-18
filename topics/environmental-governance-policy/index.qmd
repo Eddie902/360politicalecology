@@ -1,0 +1,47 @@
+---
+title: "Environmental Governance & Policy"
+description: "How do institutions, laws, public policies, and accountability mechanisms shape environmental outcomes?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Governance, Power & Transformation  
+**V3 topic ID:** GOV
+
+How do institutions, laws, public policies, and accountability mechanisms shape environmental outcomes?
+:::
+
+## Questions we examine
+
+- Why do environmental policies succeed or fail in implementation?
+- How do institutions mediate resource conflicts and environmental risks?
+- Which governance reforms improve transparency and policy coherence?
+
+## Research and analysis
+
+**Current related analysis**
+
+- [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](../../articles/africa-battery-minerals/index.qmd) — an advance online comparative policy synthesis examining mineral export restrictions, industrial capabilities, resource governance, and environmental justice. This is a secondary topic associated with the article.
+
+The article remains an **advance online publication**, with final Issue 01 checks pending. See the article and its evidence register for source documentation and limitations.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Political Ecology & Geopolitics](../political-ecology-geopolitics/index.qmd)
+- [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
+- [Environmental Justice](../environmental-justice/index.qmd)
+
+---
+
+*360PE's V3 research taxonomy expands the original ten areas of analysis without replacing the [foundational framework](../../topics.qmd#foundational-ten-areas-of-analysis).*  
+*Evidence · Ecology · Equity · Development*
