@@ -7,6 +7,16 @@ date-modified: 2026-10-13
 categories: [Critical Minerals, Industrial Policy, Environmental Justice, Africa]
 description: "Evidence-based analysis of mineral export restrictions, industrial capabilities and sustainable development."
 image: ../../images/mineral-production.png
+content_id: "360PE-REV-2026-001"
+content_type: "review"
+primary_topic: "MIN"
+secondary_topics: ["ENE", "GOV", "JUS"]
+geographies: ["Africa", "Indonesia"]
+analytical_lenses: ["Political Ecology", "Environmental Economics"]
+evidence_types: ["Official statistics", "Policy documents", "Peer-reviewed research"]
+language: "en"
+status: "advance_online"
+issue_status: "pending_final_checks"
 ---
 
 > **Advance online publication:** 10 October 2026. **Editorial update:** 13 October 2026 (source links and clarification of verification status). This comparative policy synthesis remains an advance edition; its final Issue 01 designation is pending completion of the remaining checks of USGS lithium and nickel tables. Any material corrections will be recorded in accordance with the [360PE Editorial Standards](../../editorial-standards.qmd).
