@@ -1,0 +1,47 @@
+---
+title: "Energy Security & Transitions"
+description: "How can energy systems become secure, affordable, low-carbon, and equitable across different development contexts?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Energy, Resources & Material Systems  
+**V3 topic ID:** ENE
+
+How can energy systems become secure, affordable, low-carbon, and equitable across different development contexts?
+:::
+
+## Questions we examine
+
+- How do energy access and affordability affect household welfare?
+- What determines the costs and benefits of energy transitions?
+- Which institutions and infrastructure support reliable clean energy?
+
+## Research and analysis
+
+**Current related analysis**
+
+- [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](../../articles/africa-battery-minerals/index.qmd) — an advance online comparative policy synthesis examining mineral export restrictions, industrial capabilities, resource governance, and environmental justice. This is a secondary topic associated with the article.
+
+The article remains an **advance online publication**, with final Issue 01 checks pending. See the article and its evidence register for source documentation and limitations.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
+- [Environmental & Development Economics](../environmental-development-economics/index.qmd)
+- [Environmental Justice](../environmental-justice/index.qmd)
+
+---
+
+*360PE's V3 research taxonomy expands the original ten areas of analysis without replacing the [foundational framework](../../topics.qmd#foundational-ten-areas-of-analysis).*  
+*Evidence · Ecology · Equity · Development*
