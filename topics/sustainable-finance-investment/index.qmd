@@ -36,8 +36,3 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Climate Change & Resilience](../climate-change-resilience/index.qmd)
 - [Environmental & Development Economics](../environmental-development-economics/index.qmd)
 - [Sustainable Development & SDGs](../sustainable-development-sdgs/index.qmd)
-
----
-
-*360PE's V3 research taxonomy expands the original ten areas of analysis without replacing the [foundational framework](../../topics.qmd#foundational-ten-areas-of-analysis).*  
-*Evidence · Ecology · Equity · Development*
