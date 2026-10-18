@@ -24,3 +24,7 @@ Browse publications by topic, read articles online, and download accompanying PD
 Topic pages identify articles through their V3 primary and secondary classifications. The inaugural analysis remains an **advance online publication**, pending its final Issue 01 checks.
 
 [Learn about our editorial approach](about.qmd#our-five-stage-evidence-to-policy-framework) · [Editorial standards](editorial-standards.qmd)
+
+## Media related to 360PE research
+
+Browse [Media & Dialogues](media.qmd) for evidence-linked videos, visual explainers, and public discussions. Related-media links appear alongside individual articles only after the associated media is approved and released.
