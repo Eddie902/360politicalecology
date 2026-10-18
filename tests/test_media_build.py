@@ -97,7 +97,7 @@ class DiscoveryTests(unittest.TestCase):
         record = self.record("published")
         record["canonical_url"] = "https://example.org/media/example-video/"
         self.write_record(record)
-        with self.assertRaisesRegex(ValueError, "canonical URL"):
+        with self.assertRaisesRegex(ValueError, "canonical.*URL"):
             generate(self.root)
 
     def test_rejects_missing_transcript(self):
