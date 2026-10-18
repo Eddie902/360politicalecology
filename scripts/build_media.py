@@ -142,7 +142,7 @@ def generate(root=ROOT):
         archive += [item(r, "") for r in records]
     else:
         archive = [GENERATED, "## Published media", "",
-                   "No media products have been released yet. Explore the research links above while the archive is being developed.", ""]
+                   "No media products have been released yet. In the meantime, explore 360PE Review, Research & Data, and our twelve research topics.", ""]
     (generated / "archive.md").write_text("\n".join(archive) + "\n", encoding="utf-8")
 
     for id_, source in sources.items():
