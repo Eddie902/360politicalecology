@@ -96,3 +96,24 @@ article img {max-width:100%;height:auto;}
 .pe-v3-topic-lead {border-left:4px solid #237b55;background:#f1f7f4;padding:1rem 1.25rem;border-radius:8px;margin:1.2rem 0 1.7rem;}
 .pe-v3-topic-lead p:last-child {margin-bottom:0;}
 @media(max-width:760px){.pe-v3-domain-grid{grid-template-columns:1fr;}.pe-v3-domain{padding:1rem;}}
+
+/* V3 PR 6A: scoped Media & Dialogues foundation. No changes to existing components. */
+.pe-v3-media-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+.pe-v3-media-card {
+  min-width: 0;
+  padding: 1.25rem;
+  border: 1px solid #d7e3df;
+  border-radius: 14px;
+  background: #f7faf8;
+}
+.pe-v3-media-card h3 { margin-top: 0; font-size: 1.1rem; }
+.pe-v3-media-card p:last-child { margin-bottom: 0; }
+@media (max-width: 760px) {
+  .pe-v3-media-grid { grid-template-columns: 1fr; }
+  .pe-v3-media-card { padding: 1rem; }
+}
