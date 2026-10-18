@@ -19,6 +19,7 @@ on:
       - feature/360pe-v3-knowledge-architecture
       - feature/360pe-v3-topic-navigation
       - feature/360pe-v3-pr6a-media-foundation
+      - feature/360pe-v3-pr6b-media-discovery
 
   pull_request:
     branches:
@@ -58,7 +59,8 @@ jobs:
         run: |
           set -euo pipefail
           python scripts/validate_media.py
-          python -m unittest discover -s tests -p 'test_media_validation.py' -v
+          python -m unittest discover -s tests -p 'test_media*.py' -v
+          python scripts/build_media.py
 
       # STEP 3: RENDER WEBSITE
       - name: Render website
@@ -149,7 +151,14 @@ jobs:
           set -euo pipefail
           grep -q 'Media &amp; Dialogues' _site/index.html
           grep -q 'Media &amp; Dialogues' _site/media.html
-          grep -q 'Media archive forthcoming' _site/media.html
+          grep -q 'No media products have been released yet' _site/media.html
+          test -f _generated_media/archive.md
+          test -f _generated_media/articles/africa-battery-minerals.md
+          test -f _generated_media/topics/critical-minerals-extractives.md
+          if find media -name 'index.qmd' -print -quit 2>/dev/null | grep -q .; then
+            echo 'ERROR: No public media records exist; unexpected generated page.'
+            exit 1
+          fi
           test -f _site/topics.html
           test -f _site/articles/africa-battery-minerals/index.html
           echo "SUCCESS: media navigation and empty-state page verified."

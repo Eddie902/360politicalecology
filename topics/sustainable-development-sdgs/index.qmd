@@ -36,3 +36,5 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Environmental & Development Economics](../environmental-development-economics/index.qmd)
 - [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)
 - [Water, Land & Food Systems](../water-land-food-systems/index.qmd)
+
+{{< include ../../_generated_media/topics/sustainable-development-sdgs.md >}}

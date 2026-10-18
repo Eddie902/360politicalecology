@@ -117,3 +117,14 @@ article img {max-width:100%;height:auto;}
   .pe-v3-media-grid { grid-template-columns: 1fr; }
   .pe-v3-media-card { padding: 1rem; }
 }
+
+/* V3 PR 6B: media discovery and accessible related-content links */
+.pe-v3-media-card a:focus-visible,
+.pe-v3-media-grid a:focus-visible {
+  outline: 3px solid #123c49;
+  outline-offset: 3px;
+}
+.pe-v3-media-card { overflow-wrap: anywhere; }
+@media (prefers-reduced-motion: reduce) {
+  .pe-v3-media-card { scroll-behavior: auto; }
+}

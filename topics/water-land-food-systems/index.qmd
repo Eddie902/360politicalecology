@@ -36,3 +36,5 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Climate Change & Resilience](../climate-change-resilience/index.qmd)
 - [Biodiversity & Ecosystems](../biodiversity-ecosystems/index.qmd)
 - [Sustainable Development & SDGs](../sustainable-development-sdgs/index.qmd)
+
+{{< include ../../_generated_media/topics/water-land-food-systems.md >}}

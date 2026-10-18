@@ -40,3 +40,5 @@ The article remains an **advance online publication**, with final Issue 01 check
 - [Political Ecology & Geopolitics](../political-ecology-geopolitics/index.qmd)
 - [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
 - [Environmental Justice](../environmental-justice/index.qmd)
+
+{{< include ../../_generated_media/topics/environmental-governance-policy.md >}}

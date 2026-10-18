@@ -36,3 +36,5 @@ There are currently no 360PE Review articles classified under this topic. This p
 - [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
 - [Environmental Governance & Policy](../environmental-governance-policy/index.qmd)
 - [Environmental Justice](../environmental-justice/index.qmd)
+
+{{< include ../../_generated_media/topics/political-ecology-geopolitics.md >}}

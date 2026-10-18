@@ -1,10 +1,12 @@
 project:
   type: website
   output-dir: _site
+  pre-render: python3 scripts/build_media.py
   render:
     - "*.qmd"
     - "articles/**/*.qmd"
     - "topics/**/*.qmd"
+    - "media/**/*.qmd"
   resources:
     - "images/**"
     - "articles/**/*.pdf"

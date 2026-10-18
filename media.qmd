@@ -20,7 +20,7 @@ Every released 360PE media product will identify its related [360PE Review](publ
 
 Research questions explained with source attribution and appropriate acknowledgment of uncertainty.
 
-**Status:** Media archive forthcoming.
+**Explore:** Approved releases appear in the published-media section below.
 
 :::
 
@@ -30,7 +30,7 @@ Research questions explained with source attribution and appropriate acknowledgm
 
 Evidence-based charts, diagrams, and accessible visual summaries with clear data provenance.
 
-**Status:** Media archive forthcoming.
+**Explore:** Approved releases appear in the published-media section below.
 
 :::
 
@@ -40,11 +40,13 @@ Evidence-based charts, diagrams, and accessible visual summaries with clear data
 
 Attributable expert perspectives and constructive conversations, distinguishing guest opinions from verified evidence.
 
-**Status:** Media archive forthcoming.
+**Explore:** Approved releases appear in the published-media section below.
 
 :::
 
 :::
+
+{{< include _generated_media/archive.md >}}
 
 ## Explore the evidence now
 
