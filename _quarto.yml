@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - "articles/**/*.qmd"
+    - "topics/**/*.qmd"
   resources:
     - "images/**"
     - "articles/**/*.pdf"
@@ -50,7 +51,33 @@ website:
         href: publications.qmd
 
       - text: "Topics"
-        href: topics.qmd
+        menu:
+          - text: "All 12 research topics"
+            href: topics.qmd
+          - text: "Climate Change & Resilience"
+            href: topics/climate-change-resilience/index.qmd
+          - text: "Biodiversity & Ecosystems"
+            href: topics/biodiversity-ecosystems/index.qmd
+          - text: "Environmental Justice"
+            href: topics/environmental-justice/index.qmd
+          - text: "Energy Security & Transitions"
+            href: topics/energy-security-transitions/index.qmd
+          - text: "Critical Minerals & Extractives"
+            href: topics/critical-minerals-extractives/index.qmd
+          - text: "Water, Land & Food Systems"
+            href: topics/water-land-food-systems/index.qmd
+          - text: "Environmental & Development Economics"
+            href: topics/environmental-development-economics/index.qmd
+          - text: "Sustainable Finance & Investment"
+            href: topics/sustainable-finance-investment/index.qmd
+          - text: "Sustainable Development & SDGs"
+            href: topics/sustainable-development-sdgs/index.qmd
+          - text: "Environmental Governance & Policy"
+            href: topics/environmental-governance-policy/index.qmd
+          - text: "Political Ecology & Geopolitics"
+            href: topics/political-ecology-geopolitics/index.qmd
+          - text: "Technology & Green Transitions"
+            href: topics/technology-green-transitions/index.qmd
 
       - text: "Research & Data"
         href: research.qmd

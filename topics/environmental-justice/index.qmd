@@ -1,0 +1,42 @@
+---
+title: "Environmental Justice"
+description: "Who receives environmental benefits, who bears ecological and health burdens, and who participates in decisions?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Climate, Ecology & Justice  
+**V3 topic ID:** JUS
+
+Who receives environmental benefits, who bears ecological and health burdens, and who participates in decisions?
+:::
+
+## Questions we examine
+
+- How are pollution and environmental risks distributed?
+- How can just-transition policies address workers and affected communities?
+- What accountability mechanisms improve participation and equity?
+
+## Research and analysis
+
+**Current related analysis**
+
+- [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](../../articles/africa-battery-minerals/index.qmd) — an advance online comparative policy synthesis examining mineral export restrictions, industrial capabilities, resource governance, and environmental justice. This is a secondary topic associated with the article.
+
+The article remains an **advance online publication**, with final Issue 01 checks pending. See the article and its evidence register for source documentation and limitations.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
+- [Energy Security & Transitions](../energy-security-transitions/index.qmd)
+- [Environmental Governance & Policy](../environmental-governance-policy/index.qmd)

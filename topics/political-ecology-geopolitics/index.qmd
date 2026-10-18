@@ -1,0 +1,38 @@
+---
+title: "Political Ecology & Geopolitics"
+description: "How do power relations, geopolitics, and contested resource decisions influence ecological and development outcomes?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Governance, Power & Transformation  
+**V3 topic ID:** POL
+
+How do power relations, geopolitics, and contested resource decisions influence ecological and development outcomes?
+:::
+
+## Questions we examine
+
+- Who controls resources, knowledge, and environmental decisions?
+- How do geopolitical shifts alter transition supply chains?
+- What do distributional conflicts reveal about development strategies?
+
+## Research and analysis
+
+There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
+- [Environmental Governance & Policy](../environmental-governance-policy/index.qmd)
+- [Environmental Justice](../environmental-justice/index.qmd)

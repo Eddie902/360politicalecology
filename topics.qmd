@@ -1,7 +1,51 @@
 ---
-title: "Ten Areas of Analysis"
-description: "Explore the ten interdisciplinary areas covered by 360 Political Ecology (360PE)."
+title: "Research Topics"
+description: "Explore the twelve V3 research topics and the original ten areas of analysis of 360 Political Ecology."
 ---
+
+## Explore the 12 V3 research topics
+
+The V3 knowledge architecture organizes research into **four interconnected knowledge domains and twelve thematic topics**. Select a topic to explore its key questions, related research, evidence pathways, and links to other areas. This is a navigation and discovery taxonomy; it expands, rather than replaces, the ten original areas below.
+
+::: {.pe-v3-domain-grid}
+
+::: {.pe-v3-domain}
+### Climate, Ecology & Justice
+
+- [Climate Change & Resilience](topics/climate-change-resilience/index.qmd)
+- [Biodiversity & Ecosystems](topics/biodiversity-ecosystems/index.qmd)
+- [Environmental Justice](topics/environmental-justice/index.qmd)
+:::
+
+::: {.pe-v3-domain}
+### Energy, Resources & Material Systems
+
+- [Energy Security & Transitions](topics/energy-security-transitions/index.qmd)
+- [Critical Minerals & Extractives](topics/critical-minerals-extractives/index.qmd)
+- [Water, Land & Food Systems](topics/water-land-food-systems/index.qmd)
+:::
+
+::: {.pe-v3-domain}
+### Economics, Finance & Development
+
+- [Environmental & Development Economics](topics/environmental-development-economics/index.qmd)
+- [Sustainable Finance & Investment](topics/sustainable-finance-investment/index.qmd)
+- [Sustainable Development & SDGs](topics/sustainable-development-sdgs/index.qmd)
+:::
+
+::: {.pe-v3-domain}
+### Governance, Power & Transformation
+
+- [Environmental Governance & Policy](topics/environmental-governance-policy/index.qmd)
+- [Political Ecology & Geopolitics](topics/political-ecology-geopolitics/index.qmd)
+- [Technology & Green Transitions](topics/technology-green-transitions/index.qmd)
+:::
+
+:::
+
+## Foundational Ten Areas of Analysis
+
+The ten areas below are 360PE's original analytical framework, retained with their descriptions and original infographic. They remain important to the platform's identity; V3 adds a more detailed classification system for navigating publications.
 
 ::: {.pe-topics-intro}
 ## Our Ten Areas of Analysis

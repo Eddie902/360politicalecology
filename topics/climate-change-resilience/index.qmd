@@ -1,0 +1,38 @@
+---
+title: "Climate Change & Resilience"
+description: "How do climate hazards, emissions choices, and adaptation capacity affect ecological and social resilience?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Climate, Ecology & Justice  
+**V3 topic ID:** CLM
+
+How do climate hazards, emissions choices, and adaptation capacity affect ecological and social resilience?
+:::
+
+## Questions we examine
+
+- Who faces the greatest climate risks, and why?
+- Which adaptation and mitigation responses have credible evidence of effectiveness?
+- How are climate costs and benefits distributed across places and generations?
+
+## Research and analysis
+
+There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Biodiversity & Ecosystems](../biodiversity-ecosystems/index.qmd)
+- [Environmental Justice](../environmental-justice/index.qmd)
+- [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)

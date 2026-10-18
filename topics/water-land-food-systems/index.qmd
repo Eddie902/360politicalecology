@@ -1,0 +1,38 @@
+---
+title: "Water, Land & Food Systems"
+description: "How do water, land, and food systems interact with climate risks, governance, livelihoods, and resource competition?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Energy, Resources & Material Systems  
+**V3 topic ID:** WLF
+
+How do water, land, and food systems interact with climate risks, governance, livelihoods, and resource competition?
+:::
+
+## Questions we examine
+
+- What drives water and food insecurity across different scales?
+- How do land-use decisions affect ecosystems and communities?
+- Which policy trade-offs emerge among agriculture, energy, and conservation?
+
+## Research and analysis
+
+There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Climate Change & Resilience](../climate-change-resilience/index.qmd)
+- [Biodiversity & Ecosystems](../biodiversity-ecosystems/index.qmd)
+- [Sustainable Development & SDGs](../sustainable-development-sdgs/index.qmd)

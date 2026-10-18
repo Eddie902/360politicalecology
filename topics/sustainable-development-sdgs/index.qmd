@@ -1,0 +1,38 @@
+---
+title: "Sustainable Development & SDGs"
+description: "How do economic, social, and ecological development objectives reinforce or constrain one another?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Economics, Finance & Development  
+**V3 topic ID:** DEV
+
+How do economic, social, and ecological development objectives reinforce or constrain one another?
+:::
+
+## Questions we examine
+
+- Which policies address poverty and environmental vulnerability together?
+- Where do SDG targets create complementarities or trade-offs?
+- How should progress be assessed beyond aggregate economic growth?
+
+## Research and analysis
+
+There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Environmental & Development Economics](../environmental-development-economics/index.qmd)
+- [Sustainable Finance & Investment](../sustainable-finance-investment/index.qmd)
+- [Water, Land & Food Systems](../water-land-food-systems/index.qmd)

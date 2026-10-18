@@ -1,0 +1,38 @@
+---
+title: "Technology & Green Transitions"
+description: "How do innovation, digital transformation, industrial policy, and green technologies shape sustainable transitions?"
+toc: true
+---
+
+[All research topics](../../topics.qmd) · [360PE Review](../../publications.qmd) · [Research & Data](../../research.qmd)
+
+::: {.pe-v3-topic-lead}
+**Knowledge domain:** Governance, Power & Transformation  
+**V3 topic ID:** TEC
+
+How do innovation, digital transformation, industrial policy, and green technologies shape sustainable transitions?
+:::
+
+## Questions we examine
+
+- Which capabilities enable local participation in green industries?
+- What are the ecological and social impacts of emerging technologies?
+- How do technology choices affect economic inclusion and resource demand?
+
+## Research and analysis
+
+There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+
+[Browse all 360PE Review publications](../../publications.qmd)
+
+## Explore the evidence
+
+360PE distinguishes documented research findings, expert interpretation, political-ecological analysis, and policy implications. Supporting sources and evidence registers are linked from individual publications where available.
+
+[Research & Data](../../research.qmd) · [Editorial Standards](../../editorial-standards.qmd)
+
+## Related research topics
+
+- [Energy Security & Transitions](../energy-security-transitions/index.qmd)
+- [Critical Minerals & Extractives](../critical-minerals-extractives/index.qmd)
+- [Environmental & Development Economics](../environmental-development-economics/index.qmd)
