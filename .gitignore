@@ -23,3 +23,7 @@
 # Local environment files
 .env
 .env.local
+
+# V3 PR6B: deterministic generated media pages and relationship fragments
+/_generated_media/
+/media/*/index.qmd
