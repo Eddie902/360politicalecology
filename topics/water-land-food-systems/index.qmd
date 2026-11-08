@@ -21,7 +21,9 @@ How do water, land, and food systems interact with climate risks, governance, li
 
 ## Research and analysis
 
-There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+**Current related analysis**
+
+- [Ghana Is Losing Its Forests. But Are Its Development Policies Part of the Problem?](../../articles/ghana-forest-loss-development-policy/index.qmd) — a secondary topic examining agricultural expansion, land-use pressures and competing rural livelihoods.
 
 [Browse all 360PE Review publications](../../publications.qmd)
 

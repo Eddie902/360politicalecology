@@ -10,6 +10,8 @@ project:
   resources:
     - "images/**"
     - "articles/**/*.pdf"
+    - "articles/**/*.png"
+    - "articles/**/*.css"
     - "robots.txt"
     - "_redirects"
 
