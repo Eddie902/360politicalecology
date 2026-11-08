@@ -21,7 +21,9 @@ How do biodiversity loss, conservation, and ecosystem change intersect with live
 
 ## Research and analysis
 
-There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+**Current related analysis**
+
+- [Ghana Is Losing Its Forests. But Are Its Development Policies Part of the Problem?](../../articles/ghana-forest-loss-development-policy/index.qmd) — a secondary topic examining forest cover, ecological integrity and restoration within development policy.
 
 [Browse all 360PE Review publications](../../publications.qmd)
 

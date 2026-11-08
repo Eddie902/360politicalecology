@@ -23,9 +23,10 @@ How do institutions, laws, public policies, and accountability mechanisms shape 
 
 **Current related analysis**
 
+- [Ghana Is Losing Its Forests. But Are Its Development Policies Part of the Problem?](../../articles/ghana-forest-loss-development-policy/index.qmd) — a published 360PE Review feature examining forest-loss trends, agricultural drivers and the governance challenge of development-policy coherence. This is the article's primary V3 topic.
 - [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](../../articles/africa-battery-minerals/index.qmd) — an advance online comparative policy synthesis examining mineral export restrictions, industrial capabilities, resource governance, and environmental justice. This is a secondary topic associated with the article.
 
-The article remains an **advance online publication**, with final Issue 01 checks pending. See the article and its evidence register for source documentation and limitations.
+The minerals article remains an **advance online publication**, with final Issue 01 checks pending. See the article and its evidence register for source documentation and limitations.
 
 [Browse all 360PE Review publications](../../publications.qmd)
 

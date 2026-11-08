@@ -1,0 +1,40 @@
+/* 360PE Review: Ghana forest-loss feature, scoped publication styling. */
+.pe-at-a-glance {
+  margin: 1.4rem 0 2rem;
+  border-top: 3px solid #08777d;
+  border-bottom: 1px solid #dbe5e7;
+  padding: 1rem 1.2rem;
+  background: #f6faf8;
+}
+.pe-at-a-glance h2 {
+  margin: 0 0 .75rem;
+  font-size: .93rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #146e70;
+}
+.pe-at-a-glance li { margin-bottom: .4rem; }
+.evidence-figure {
+  margin: 2rem 0 2.3rem;
+  border-bottom: 1px solid #dbe5e7;
+  padding-bottom: 1rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.evidence-figure img { display: block; max-width: 100%; height: auto; }
+.evidence-figure figcaption { margin-top: .7rem; font-size: .84rem; line-height: 1.55; color: #4b6971; }
+.evidence-figure figcaption strong { display: block; color: #173e49; margin-bottom: .35rem; }
+.evidence-figure figcaption span { display: block; }
+.table-scroll { max-width: 100%; overflow-x: auto; margin: 1.8rem 0 .5rem; }
+.policy-table { width: 100%; border-collapse: collapse; font-size: .88rem; line-height: 1.45; }
+.policy-table caption { caption-side: top; text-align: left; color: #173e49; font-weight: 700; padding-bottom: .65rem; }
+.policy-table th, .policy-table td { padding: .7rem .6rem; border: 1px solid #d3e0e1; vertical-align: top; }
+.policy-table th { background: #165966; color: white; }
+.policy-table tr:nth-child(even) td { background: #f6faf9; }
+.table-note { margin-top: .6rem; font-size: .82rem; color: #4b6971; }
+.sources li { margin-bottom: .75rem; overflow-wrap: anywhere; }
+.sources a { font-size: .9em; }
+@media print {
+  .evidence-figure, .table-scroll { break-inside: avoid; }
+  h2 { break-after: avoid; }
+}

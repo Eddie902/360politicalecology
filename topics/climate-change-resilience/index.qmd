@@ -21,7 +21,9 @@ How do climate hazards, emissions choices, and adaptation capacity affect ecolog
 
 ## Research and analysis
 
-There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+**Current related analysis**
+
+- [Ghana Is Losing Its Forests. But Are Its Development Policies Part of the Problem?](../../articles/ghana-forest-loss-development-policy/index.qmd) — a secondary topic connecting forest change to climate commitments and evidence-based policy.
 
 [Browse all 360PE Review publications](../../publications.qmd)
 
