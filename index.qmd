@@ -108,6 +108,18 @@ Consider governance responses, implementation constraints, trade-offs and potent
 
 ::: {.pe-callout}
 
+**360PE Review | Volume 03 · USA Edition**
+
+### [Michigan’s Industrial Energy Future](articles/michigan-industrial-energy-future/index.qmd)
+
+Can clean energy deliver competitiveness, security and shared prosperity? An evidence-based analysis of Michigan’s solar investment, manufacturing, electricity affordability, grid reliability and energy justice.
+
+[Read the complete article →](articles/michigan-industrial-energy-future/index.qmd)
+
+:::
+
+::: {.pe-callout}
+
 **360PE Review | Issue 01**
 
 ### [Africa's Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](articles/africa-battery-minerals/index.qmd)
