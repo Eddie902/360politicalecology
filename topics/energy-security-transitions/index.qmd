@@ -23,6 +23,8 @@ How can energy systems become secure, affordable, low-carbon, and equitable acro
 
 **Current related analysis**
 
+- [Michigan’s Industrial Energy Future](../../articles/michigan-industrial-energy-future/index.qmd) — Volume 03, USA Edition; industrial energy security, corporate renewable procurement and public development outcomes. Primary topic.
+
 - [Africa’s Battery Minerals: Can Export Bans Deliver Sustainable Industrialization?](../../articles/africa-battery-minerals/index.qmd) — an advance online comparative policy synthesis examining mineral export restrictions, industrial capabilities, resource governance, and environmental justice. This is a secondary topic associated with the article.
 
 The article remains an **advance online publication**, with final Issue 01 checks pending. See the article and its evidence register for source documentation and limitations.
