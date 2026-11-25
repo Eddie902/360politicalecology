@@ -1,0 +1,5 @@
+﻿Measure,GM solar projects,Palisades scenario
+Capacity,300 MW,800 MW
+Annual capacity factor,20.5% implied,90% assumed
+Annual generation,0.539 TWh projected,6.31 TWh simulated
+Reliability role,Variable generation,"Firm generation, subject to outages"

@@ -12,6 +12,7 @@ project:
     - "articles/**/*.pdf"
     - "articles/**/*.png"
     - "articles/**/*.css"
+    - "articles/**/*.csv"
     - "robots.txt"
     - "_redirects"
 

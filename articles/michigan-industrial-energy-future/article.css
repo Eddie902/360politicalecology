@@ -1,0 +1,17 @@
+/* Article-only rules; inherit 360PE's masthead and global typography. */
+#quarto-document-content .table-scroll {overflow-x:auto; margin:1.2rem 0 .35rem; max-width:100%;}
+#quarto-document-content .table-scroll table {border-collapse:collapse; width:100%; font-size:.9rem;}
+#quarto-document-content .table-scroll caption {caption-side:top; color:#123c49; text-align:left; font-weight:700;}
+#quarto-document-content .table-scroll th {background:#123c49; color:white; text-align:left;}
+#quarto-document-content .table-scroll th,#quarto-document-content .table-scroll td {padding:.45rem .6rem; border-bottom:1px solid #d2e0df; vertical-align:top;}
+#quarto-document-content .table-scroll tbody tr:nth-child(even){background:#edf5f3;}
+#quarto-document-content figure {margin:1.4rem 0;}
+#quarto-document-content figure img {max-width:100%; height:auto; display:block; margin:auto;}
+#quarto-document-content figcaption,#quarto-document-content .source {font-size:.85rem; color:#4e6067;}
+#quarto-document-content .reference {overflow-wrap:anywhere; padding-left:1.5rem; text-indent:-1.5rem;}
+#quarto-document-content .framework .stage {background:#e5f1ed; border:1px solid #b6d2c8; border-radius:.35rem; text-align:center; padding:.75rem; margin:.4rem auto; color:#123c49;}
+#quarto-document-content .framework .outcomes {display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.4rem; margin:.5rem 0;}
+#quarto-document-content .framework .outcomes div {padding:.65rem; text-align:center; background:#e5f1ed; border:1px solid #b6d2c8; border-radius:.35rem;}
+#quarto-document-content .framework .outcomes div:nth-child(2){background:#f6efdc;border-color:#d6c48b;}
+#quarto-document-content .framework .outcomes div:nth-child(3){background:#f6e6e1;border-color:#d9a69a;}
+@media(max-width:650px){#quarto-document-content .framework .outcomes{grid-template-columns:1fr;}}

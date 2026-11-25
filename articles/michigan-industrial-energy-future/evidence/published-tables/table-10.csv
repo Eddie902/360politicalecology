@@ -1,0 +1,10 @@
+﻿Dimension,Indicator,Latest value,Desired direction,Current reading
+Energy,Power-sector fossil CO2 (SEDS) [3],51.8 Mt (2024); −27.1% vs 2010,Down,"Improving, but +9.2% rebound in 2024"
+Energy,Coal and gas share of utility-scale generation [8],65.0% (2025),Down,Persistent fossil dependence
+Economic,Industrial price relative to U.S. average [8],8.51¢ vs 8.51¢ (2025),At or below U.S.,At parity
+Economic,"Home-energy burden, households at or below poverty level [5]",23% vs 3% statewide,Down,Severe pressure
+Economic,"Real average manufacturing pay (2025 $) [7, 39]","$85,789; −8.0% vs 2000, −0.5% vs 2019",Up,"Recovering since 2023, below earlier peaks"
+System,"SAIDI excluding major-event days [24, 25]","161.0 min (2025) vs IN 120.8, OH 130.1",Down,Flat; above neighbors
+System,Zone 7 planning reserve requirement met [20],"21,802.2 MW met; summer $424.30/MW-day",Meet target; monitor cost,Requirement met; high summer price
+Institutional,"Clean-energy standard vs federal credit horizon [28, 30]","80% clean by 2035; wind/solar in-service deadline: end-2027 for applicable projects starting after July 4, 2026",Aligned horizons,Mismatched
+Institutional,Enforceable large-load customer protections [33],DTE–Google conditions (U-22058),Present and enforced,Approved; enforcement untested

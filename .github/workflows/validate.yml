@@ -176,6 +176,29 @@ jobs:
 
           echo "SUCCESS: Inaugural publication verified."
 
+      # Volume 03: prevent publishing an incomplete issue
+      - name: Verify Volume 03 publication and preserve earlier articles
+        shell: bash
+        run: |
+          set -euo pipefail
+          ARTICLE="_site/articles/michigan-industrial-energy-future"
+          test -s "$ARTICLE/index.html"
+          test -s "$ARTICLE/article.pdf"
+          test -s "$ARTICLE/article.css"
+          for n in 1 2 3 4 5 6; do
+            test -s "$ARTICLE/assets/figure-$n.png"
+          done
+          test -s "$ARTICLE/assets/social-preview.png"
+          test -s "$ARTICLE/evidence/reference-register.csv"
+          for n in $(seq -w 1 10); do
+            test -s "$ARTICLE/evidence/published-tables/table-$n.csv"
+          done
+          test -s _site/articles/ghana-forest-loss-development-policy/index.html
+          for p in index.html publications.html topics/energy-security-transitions/index.html topics/sustainable-finance-investment/index.html topics/environmental-justice/index.html sitemap.xml publications.xml; do
+            grep -q 'michigan-industrial-energy-future' "_site/$p"
+          done
+          echo "SUCCESS: Volume 03 assets and discovery links verified."
+
       # STEP 6: CHECK FOR UNRESOLVED GIT CONFLICTS
       - name: Verify no Git conflict markers
         shell: bash
