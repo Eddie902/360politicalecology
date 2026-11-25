@@ -21,7 +21,9 @@ How can finance support climate action, ecological integrity, and equitable deve
 
 ## Research and analysis
 
-There are currently no 360PE Review articles classified under this topic. This page defines the scope of future coverage; it does not represent a completed research archive.
+**Current related analysis**
+
+- [Michigan’s Industrial Energy Future](../../articles/michigan-industrial-energy-future/index.qmd) — Volume 03, USA Edition; virtual power purchase agreements, financing sensitivity and institutional risk allocation. Secondary topic.
 
 [Browse all 360PE Review publications](../../publications.qmd)
 
